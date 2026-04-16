@@ -1,0 +1,1002 @@
+Date,sku,product_name,category,units_sold,price,promotion,store,stock_level,is_assembly_required,customer_rating,fulfillment_center_id,profit_margin_percent,is_seasonal_item
+2024-07-28,RASKOG-013,Råskog Cart,Storage,46.42,49.0,0,Athens,202,False,3.99,ATH_FC,34.36,False
+2024-10-09,FJADRAR-014,Fjädrar Cushion,Decoration,46.5,17.32,1,Milan,29,False,4.61,MIL_FC,8.99,False
+2024-10-26,RASKOG-013,Råskog Cart,Storage,20.28,49.0,0,Naples,484,False,4.42,NAP_FC,34.36,True
+2024-09-22,FRIHET-010,Friheten Sofa Bed,Living Room,28.11,610.36,0,Thessaloniki,198,True,3.84,THS_FC,32.51,False
+2024-09-08,ALEX-012,Alex Drawer Unit,Office,8.96,93.31,0,Naples,594,True,4.91,NAP_FC,33.03,False
+2024-08-04,FORNYAD-011,Förnyad Mug,Kitchen,33.79,3.44,0,Milan,463,False,4.4,MIL_FC,35.89,False
+2024-11-03,FRIHET-010,Friheten Sofa Bed,Living Room,9.52,610.36,0,Barcelona,420,True,4.0,BCN_FC,32.51,True
+2024-09-29,MALM-009,Malm Dresser,Bedroom,16.67,200.76,0,Porto,56,True,4.5,OPO_FC,32.46,False
+2024-06-12,FRIHET-010,Friheten Sofa Bed,Living Room,41.44,610.36,0,Naples,483,True,4.44,NAP_FC,32.51,False
+2024-07-03,MALM-009,Malm Dresser,Bedroom,32.81,200.76,0,Valencia,419,True,4.17,VLC_FC,32.46,False
+2024-07-26,MALM-009,Malm Dresser,Bedroom,30.29,200.76,0,Thessaloniki,574,True,4.27,THS_FC,32.46,False
+2024-03-15,MALM-009,Malm Dresser,Bedroom,28.08,200.76,0,Athens,253,True,3.92,ATH_FC,32.46,True
+2024-04-24,RASKOG-013,Råskog Cart,Storage,12.48,49.0,0,Valencia,303,False,3.88,VLC_FC,34.36,False
+2025-04-27,FJADRAR-014,Fjädrar Cushion,Decoration,38.56,23.1,0,Rome,40,False,4.21,ROM_FC,31.74,False
+2024-09-19,MALM-009,Malm Dresser,Bedroom,9.44,200.76,0,Athens,284,True,4.25,ATH_FC,32.46,False
+2024-02-20,RASKOG-013,Råskog Cart,Storage,35.52,49.0,0,Naples,592,False,4.83,NAP_FC,34.36,False
+2024-03-13,RASKOG-013,Råskog Cart,Storage,25.02,49.0,0,Athens,201,False,4.51,ATH_FC,34.36,False
+2024-12-30,FORNYAD-011,Förnyad Mug,Kitchen,25.53,3.44,0,Rome,195,False,4.93,ROM_FC,35.89,False
+2025-04-24,MALM-009,Malm Dresser,Bedroom,27.47,200.76,0,Marseille,694,True,3.98,MRS_FC,32.46,False
+2025-04-27,FORNYAD-011,Förnyad Mug,Kitchen,49.9,3.44,0,Naples,579,False,4.71,NAP_FC,35.89,True
+2024-10-27,ALEX-012,Alex Drawer Unit,Office,49.86,93.31,0,Athens,113,True,4.36,ATH_FC,33.03,False
+2024-10-23,FJADRAR-014,Fjädrar Cushion,Decoration,25.91,23.1,0,Athens,534,False,3.81,ATH_FC,31.74,False
+2024-08-06,ALEX-012,Alex Drawer Unit,Office,11.63,69.98,1,Bordeaux,521,True,4.4,BDX_FC,10.71,False
+2024-07-01,RASKOG-013,Råskog Cart,Storage,27.05,36.75,1,Athens,720,False,4.22,ATH_FC,12.47,False
+2024-11-30,FRIHET-010,Friheten Sofa Bed,Living Room,34.68,610.36,0,Rome,635,True,4.52,ROM_FC,32.51,False
+2024-02-18,FRIHET-010,Friheten Sofa Bed,Living Room,10.07,610.36,0,Porto,560,True,4.87,OPO_FC,32.51,False
+2024-05-01,BILLY-001,Billy Bookcase,Storage,28.0,411.75,1,Zenata,180,True,3.84,MOR_FC_ZN,16.36,False
+2024-04-29,RASKOG-013,Råskog Cart,Storage,48.46,36.75,1,Marseille,284,False,4.07,MRS_FC,12.47,False
+2025-05-18,FORNYAD-011,Förnyad Mug,Kitchen,6.05,3.44,0,Thessaloniki,177,False,4.97,THS_FC,35.89,False
+2024-08-02,FJADRAR-014,Fjädrar Cushion,Decoration,18.63,23.1,0,Naples,727,False,4.61,NAP_FC,31.74,False
+2024-07-13,ALEX-012,Alex Drawer Unit,Office,24.59,93.31,0,Valencia,629,True,4.11,VLC_FC,33.03,False
+2024-10-26,FRIHET-010,Friheten Sofa Bed,Living Room,26.06,610.36,0,Porto,781,True,4.93,OPO_FC,32.51,False
+2024-01-15,MALM-009,Malm Dresser,Bedroom,19.87,200.76,0,Milan,505,True,4.76,MIL_FC,32.46,False
+2025-01-05,MALM-009,Malm Dresser,Bedroom,23.72,150.57,1,Bordeaux,246,True,4.86,BDX_FC,9.95,False
+2025-03-18,RASKOG-013,Råskog Cart,Storage,30.68,36.75,1,Bordeaux,491,False,4.23,BDX_FC,12.47,False
+2024-06-30,MALM-009,Malm Dresser,Bedroom,48.25,200.76,0,Thessaloniki,672,True,4.92,THS_FC,32.46,False
+2024-11-10,RASKOG-013,Råskog Cart,Storage,11.21,49.0,0,Marseille,489,False,4.94,MRS_FC,34.36,False
+2025-04-01,KALLAX-002,Kallax Shelf,Storage,36.0,299.25,1,Zenata,110,True,4.28,MOR_FC_ZN,2.0,True
+2025-05-23,FORNYAD-011,Förnyad Mug,Kitchen,44.43,3.44,0,Rome,443,False,4.16,ROM_FC,35.89,False
+2025-02-07,MALM-009,Malm Dresser,Bedroom,18.48,200.76,0,Porto,631,True,4.08,OPO_FC,32.46,False
+2025-04-21,FRIHET-010,Friheten Sofa Bed,Living Room,33.59,610.36,0,Thessaloniki,702,True,4.38,THS_FC,32.51,False
+2024-09-18,FRIHET-010,Friheten Sofa Bed,Living Room,41.86,610.36,0,Thessaloniki,445,True,4.72,THS_FC,32.51,False
+2024-09-26,FRIHET-010,Friheten Sofa Bed,Living Room,21.75,610.36,0,Rome,616,True,4.5,ROM_FC,32.51,False
+2025-02-27,MALM-009,Malm Dresser,Bedroom,15.49,200.76,0,Naples,30,True,4.34,NAP_FC,32.46,False
+2024-06-14,FRIHET-010,Friheten Sofa Bed,Living Room,22.61,610.36,0,Bordeaux,651,True,4.61,BDX_FC,32.51,False
+2024-08-02,KALLAX-002,Kallax Shelf,Storage,10.0,399.0,0,Zenata,200,True,3.81,MOR_FC_ZN,26.5,False
+2024-12-06,ALEX-012,Alex Drawer Unit,Office,13.18,93.31,0,Milan,485,True,4.19,MIL_FC,33.03,False
+2024-12-22,ALEX-012,Alex Drawer Unit,Office,32.22,93.31,0,Valencia,602,True,4.86,VLC_FC,33.03,False
+2024-11-28,FORNYAD-011,Förnyad Mug,Kitchen,38.47,3.44,0,Thessaloniki,114,False,4.28,THS_FC,35.89,False
+2024-09-14,FORNYAD-011,Förnyad Mug,Kitchen,23.62,3.44,0,Thessaloniki,79,False,3.93,THS_FC,35.89,False
+2024-12-25,FJADRAR-014,Fjädrar Cushion,Decoration,34.35,23.1,0,Barcelona,58,False,4.9,BCN_FC,31.74,False
+2024-09-09,FJADRAR-014,Fjädrar Cushion,Decoration,28.59,23.1,0,Bordeaux,157,False,4.21,BDX_FC,31.74,False
+2025-02-03,FJADRAR-014,Fjädrar Cushion,Decoration,21.14,23.1,0,Rome,52,False,4.63,ROM_FC,31.74,True
+2025-03-18,RASKOG-013,Råskog Cart,Storage,15.86,49.0,0,Naples,537,False,3.93,NAP_FC,34.36,False
+2025-01-22,FRIHET-010,Friheten Sofa Bed,Living Room,5.86,610.36,0,Milan,236,True,4.68,MIL_FC,32.51,False
+2024-12-11,MALM-009,Malm Dresser,Bedroom,13.97,150.57,1,Barcelona,149,True,4.37,BCN_FC,9.95,False
+2025-02-02,LACK-004,Lack Table,Living Room,16.0,69.98,1,Zenata,484,True,4.28,MOR_FC_ZN,10.71,False
+2024-05-03,MALM-009,Malm Dresser,Bedroom,27.7,200.76,0,Thessaloniki,468,True,4.99,THS_FC,32.46,False
+2024-12-27,RASKOG-013,Råskog Cart,Storage,29.03,49.0,0,Athens,340,False,4.43,ATH_FC,34.36,False
+2024-01-13,FJADRAR-014,Fjädrar Cushion,Decoration,49.42,17.32,1,Athens,91,False,4.73,ATH_FC,8.99,False
+2024-11-17,MALM-009,Malm Dresser,Bedroom,24.52,200.76,0,Milan,508,True,4.26,MIL_FC,32.46,False
+2024-11-28,FJADRAR-014,Fjädrar Cushion,Decoration,45.32,23.1,0,Porto,780,False,3.87,OPO_FC,31.74,False
+2024-05-19,MALM-009,Malm Dresser,Bedroom,15.96,200.76,0,Barcelona,90,True,4.8,BCN_FC,32.46,False
+2024-06-24,ALEX-012,Alex Drawer Unit,Office,36.35,93.31,0,Athens,697,True,4.66,ATH_FC,33.03,False
+2025-04-11,RASKOG-013,Råskog Cart,Storage,45.36,49.0,0,Bordeaux,554,False,4.3,BDX_FC,34.36,False
+2024-12-31,ALEX-012,Alex Drawer Unit,Office,5.3,69.98,1,Porto,562,True,4.67,OPO_FC,10.71,False
+2024-10-08,FRIHET-010,Friheten Sofa Bed,Living Room,25.33,457.77,1,Porto,619,True,4.93,OPO_FC,10.01,False
+2024-12-22,FJADRAR-014,Fjädrar Cushion,Decoration,33.83,23.1,0,Milan,647,False,4.49,MIL_FC,31.74,True
+2024-11-10,FJADRAR-014,Fjädrar Cushion,Decoration,40.43,23.1,0,Naples,612,False,4.23,NAP_FC,31.74,False
+2024-02-13,FRIHET-010,Friheten Sofa Bed,Living Room,15.74,610.36,0,Milan,790,True,4.5,MIL_FC,32.51,False
+2024-06-15,ALEX-012,Alex Drawer Unit,Office,9.18,93.31,0,Naples,119,True,4.35,NAP_FC,33.03,False
+2025-05-04,RASKOG-013,Råskog Cart,Storage,29.14,49.0,0,Rome,685,False,4.62,ROM_FC,34.36,False
+2025-03-05,FJADRAR-014,Fjädrar Cushion,Decoration,40.19,23.1,0,Porto,422,False,4.24,OPO_FC,31.74,True
+2025-04-18,FRIHET-010,Friheten Sofa Bed,Living Room,20.37,610.36,0,Rome,498,True,4.52,ROM_FC,32.51,False
+2024-11-15,FJADRAR-014,Fjädrar Cushion,Decoration,28.7,17.32,1,Milan,385,False,4.83,MIL_FC,8.99,False
+2025-02-19,FRIHET-010,Friheten Sofa Bed,Living Room,11.0,610.36,0,Naples,405,True,4.73,NAP_FC,32.51,False
+2024-04-14,ALEX-012,Alex Drawer Unit,Office,47.98,69.98,1,Valencia,230,True,4.17,VLC_FC,10.71,False
+2024-09-07,RASKOG-013,Råskog Cart,Storage,22.04,49.0,0,Naples,363,False,4.48,NAP_FC,34.36,False
+2024-02-15,FRIHET-010,Friheten Sofa Bed,Living Room,43.24,610.36,0,Porto,664,True,4.49,OPO_FC,32.51,False
+2024-07-26,ALEX-012,Alex Drawer Unit,Office,38.16,93.31,0,Milan,589,True,4.82,MIL_FC,33.03,False
+2024-10-10,ALEX-012,Alex Drawer Unit,Office,16.94,93.31,0,Bordeaux,70,True,4.27,BDX_FC,33.03,False
+2025-05-13,FORNYAD-011,Förnyad Mug,Kitchen,34.5,3.44,0,Milan,218,False,4.18,MIL_FC,35.89,False
+2024-12-10,ALEX-012,Alex Drawer Unit,Office,48.17,93.31,0,Valencia,733,True,4.07,VLC_FC,33.03,False
+2024-01-11,FJADRAR-014,Fjädrar Cushion,Decoration,13.14,17.32,1,Rome,106,False,4.96,ROM_FC,8.99,False
+2024-09-25,ALEX-012,Alex Drawer Unit,Office,6.12,93.31,0,Thessaloniki,226,True,4.86,THS_FC,33.03,False
+2024-06-05,FORNYAD-011,Förnyad Mug,Kitchen,43.74,3.44,0,Milan,719,False,4.01,MIL_FC,35.89,False
+2024-01-29,MALM-009,Malm Dresser,Bedroom,46.68,200.76,0,Barcelona,310,True,4.3,BCN_FC,32.46,False
+2025-04-07,ALEX-012,Alex Drawer Unit,Office,26.37,93.31,0,Naples,132,True,4.98,NAP_FC,33.03,False
+2024-10-11,ALEX-012,Alex Drawer Unit,Office,7.87,93.31,0,Athens,98,True,4.4,ATH_FC,33.03,True
+2024-12-20,ALEX-012,Alex Drawer Unit,Office,48.98,93.31,0,Thessaloniki,63,True,4.08,THS_FC,33.03,False
+2024-05-03,RASKOG-013,Råskog Cart,Storage,35.72,49.0,0,Marseille,168,False,4.24,MRS_FC,34.36,False
+2024-09-25,FORNYAD-011,Förnyad Mug,Kitchen,46.42,3.44,0,Bordeaux,230,False,4.87,BDX_FC,35.89,False
+2024-12-23,FRIHET-010,Friheten Sofa Bed,Living Room,32.86,610.36,0,Barcelona,441,True,4.86,BCN_FC,32.51,False
+2024-05-26,FRIHET-010,Friheten Sofa Bed,Living Room,36.85,457.77,1,Barcelona,52,True,4.83,BCN_FC,10.01,False
+2024-05-07,ALEX-012,Alex Drawer Unit,Office,23.27,93.31,0,Thessaloniki,197,True,4.37,THS_FC,33.03,False
+2024-07-21,BILLY-001,Billy Bookcase,Storage,16.0,549.0,0,Zenata,260,True,4.7,MOR_FC_ZN,37.27,False
+2025-04-10,FJADRAR-014,Fjädrar Cushion,Decoration,29.27,23.1,0,Porto,610,False,4.37,OPO_FC,31.74,False
+2024-08-24,MALM-009,Malm Dresser,Bedroom,25.77,200.76,0,Rome,530,True,4.92,ROM_FC,32.46,False
+2025-03-04,FJADRAR-014,Fjädrar Cushion,Decoration,8.89,23.1,0,Athens,424,False,4.79,ATH_FC,31.74,True
+2024-08-08,ALEX-012,Alex Drawer Unit,Office,14.84,93.31,0,Rome,180,True,4.92,ROM_FC,33.03,False
+2024-12-03,ALEX-012,Alex Drawer Unit,Office,13.1,93.31,0,Athens,254,True,4.78,ATH_FC,33.03,False
+2024-07-15,MALM-009,Malm Dresser,Bedroom,47.01,200.76,0,Milan,766,True,4.74,MIL_FC,32.46,False
+2025-04-24,FJADRAR-014,Fjädrar Cushion,Decoration,10.68,23.1,0,Porto,390,False,4.26,OPO_FC,31.74,False
+2025-03-16,ALEX-012,Alex Drawer Unit,Office,28.19,93.31,0,Naples,466,True,4.28,NAP_FC,33.03,False
+2024-11-30,ALEX-012,Alex Drawer Unit,Office,8.72,93.31,0,Porto,319,True,3.84,OPO_FC,33.03,False
+2024-12-24,FORNYAD-011,Förnyad Mug,Kitchen,12.31,3.44,0,Naples,326,False,4.51,NAP_FC,35.89,False
+2024-12-13,ALEX-012,Alex Drawer Unit,Office,29.64,69.98,1,Barcelona,512,True,4.49,BCN_FC,10.71,False
+2024-11-30,FJADRAR-014,Fjädrar Cushion,Decoration,13.37,17.32,1,Naples,150,False,4.17,NAP_FC,8.99,False
+2024-07-06,FRIHET-010,Friheten Sofa Bed,Living Room,40.49,610.36,0,Thessaloniki,168,True,4.99,THS_FC,32.51,False
+2025-01-02,ALEX-012,Alex Drawer Unit,Office,42.1,93.31,0,Rome,795,True,4.3,ROM_FC,33.03,False
+2025-04-05,FRIHET-010,Friheten Sofa Bed,Living Room,30.31,610.36,0,Porto,157,True,4.27,OPO_FC,32.51,False
+2024-06-21,RASKOG-013,Råskog Cart,Storage,27.33,49.0,0,Marseille,382,False,4.06,MRS_FC,34.36,False
+2024-05-26,MALM-009,Malm Dresser,Bedroom,41.72,200.76,0,Valencia,148,True,3.95,VLC_FC,32.46,False
+2025-01-01,FJADRAR-014,Fjädrar Cushion,Decoration,25.52,23.1,0,Milan,731,False,3.97,MIL_FC,31.74,False
+2024-09-09,RASKOG-013,Råskog Cart,Storage,26.32,49.0,0,Porto,617,False,4.58,OPO_FC,34.36,False
+2025-03-13,ALEX-012,Alex Drawer Unit,Office,41.2,93.31,0,Marseille,203,True,4.33,MRS_FC,33.03,True
+2024-08-19,MALM-009,Malm Dresser,Bedroom,35.85,200.76,0,Naples,355,True,4.39,NAP_FC,32.46,True
+2024-08-11,ALEX-012,Alex Drawer Unit,Office,32.02,93.31,0,Barcelona,237,True,3.99,BCN_FC,33.03,False
+2024-12-15,RASKOG-013,Råskog Cart,Storage,12.41,49.0,0,Milan,374,False,4.94,MIL_FC,34.36,False
+2024-11-19,ALEX-012,Alex Drawer Unit,Office,22.92,93.31,0,Valencia,537,True,4.53,VLC_FC,33.03,False
+2024-11-07,RASKOG-013,Råskog Cart,Storage,35.96,36.75,1,Bordeaux,57,False,4.03,BDX_FC,12.47,False
+2024-11-01,ALEX-012,Alex Drawer Unit,Office,48.86,93.31,0,Porto,124,True,4.79,OPO_FC,33.03,False
+2025-02-28,FRIHET-010,Friheten Sofa Bed,Living Room,17.72,457.77,1,Athens,259,True,4.91,ATH_FC,10.01,False
+2024-12-13,ALEX-012,Alex Drawer Unit,Office,31.81,93.31,0,Porto,519,True,4.28,OPO_FC,33.03,False
+2024-10-20,FJADRAR-014,Fjädrar Cushion,Decoration,42.1,23.1,0,Marseille,380,False,4.31,MRS_FC,31.74,False
+2024-11-02,MALM-009,Malm Dresser,Bedroom,25.67,150.57,1,Milan,75,True,4.01,MIL_FC,9.95,True
+2024-10-31,FRIHET-010,Friheten Sofa Bed,Living Room,7.61,610.36,0,Thessaloniki,192,True,4.49,THS_FC,32.51,False
+2024-07-11,FORNYAD-011,Förnyad Mug,Kitchen,24.38,3.44,0,Marseille,596,False,4.45,MRS_FC,35.89,False
+2024-09-18,ALEX-012,Alex Drawer Unit,Office,44.72,93.31,0,Naples,643,True,4.9,NAP_FC,33.03,False
+2024-11-27,HEMNES-003,Hemnes Bed,Bedroom,10.0,1990.0,0,Zenata,75,True,3.82,MOR_FC_ZN,30.92,True
+2025-05-01,RASKOG-013,Råskog Cart,Storage,8.64,49.0,0,Rome,76,False,4.42,ROM_FC,34.36,False
+2025-05-25,RASKOG-013,Råskog Cart,Storage,33.79,49.0,0,Marseille,513,False,4.45,MRS_FC,34.36,False
+2024-07-26,FORNYAD-011,Förnyad Mug,Kitchen,21.11,2.58,1,Milan,711,False,4.44,MIL_FC,14.53,True
+2025-03-10,ALEX-012,Alex Drawer Unit,Office,46.38,93.31,0,Milan,423,True,4.51,MIL_FC,33.03,False
+2025-05-28,MALM-009,Malm Dresser,Bedroom,20.63,200.76,0,Thessaloniki,327,True,4.82,THS_FC,32.46,False
+2024-09-20,FRIHET-010,Friheten Sofa Bed,Living Room,8.55,610.36,0,Porto,534,True,4.49,OPO_FC,32.51,False
+2025-03-04,ALEX-012,Alex Drawer Unit,Office,8.98,69.98,1,Athens,665,True,4.76,ATH_FC,10.71,False
+2024-04-08,RASKOG-013,Råskog Cart,Storage,14.44,49.0,0,Porto,329,False,4.41,OPO_FC,34.36,False
+2024-06-29,FJADRAR-014,Fjädrar Cushion,Decoration,29.91,17.32,1,Thessaloniki,25,False,4.49,THS_FC,8.99,False
+2025-05-17,ALEX-012,Alex Drawer Unit,Office,36.32,93.31,0,Athens,406,True,4.48,ATH_FC,33.03,False
+2025-04-23,FRIHET-010,Friheten Sofa Bed,Living Room,30.89,610.36,0,Valencia,524,True,4.77,VLC_FC,32.51,False
+2024-04-12,FRIHET-010,Friheten Sofa Bed,Living Room,31.34,610.36,0,Marseille,598,True,4.24,MRS_FC,32.51,False
+2024-12-31,RASKOG-013,Råskog Cart,Storage,33.86,36.75,1,Bordeaux,131,False,4.34,BDX_FC,12.47,True
+2024-10-31,FORNYAD-011,Förnyad Mug,Kitchen,45.87,3.44,0,Rome,632,False,4.65,ROM_FC,35.89,True
+2024-06-28,MALM-009,Malm Dresser,Bedroom,21.45,200.76,0,Valencia,199,True,4.58,VLC_FC,32.46,False
+2024-08-26,FJADRAR-014,Fjädrar Cushion,Decoration,37.14,23.1,0,Porto,343,False,4.46,OPO_FC,31.74,False
+2024-07-03,ALEX-012,Alex Drawer Unit,Office,35.38,93.31,0,Valencia,703,True,4.21,VLC_FC,33.03,False
+2024-06-18,RASKOG-013,Råskog Cart,Storage,46.24,36.75,1,Athens,95,False,4.34,ATH_FC,12.47,False
+2024-11-20,FORNYAD-011,Förnyad Mug,Kitchen,42.01,2.58,1,Naples,259,False,4.37,NAP_FC,14.53,False
+2024-02-16,RASKOG-013,Råskog Cart,Storage,21.29,49.0,0,Valencia,244,False,4.36,VLC_FC,34.36,False
+2024-10-28,FRIHET-010,Friheten Sofa Bed,Living Room,39.4,610.36,0,Valencia,251,True,4.73,VLC_FC,32.51,False
+2024-09-13,FORNYAD-011,Förnyad Mug,Kitchen,35.66,3.44,0,Barcelona,624,False,4.91,BCN_FC,35.89,False
+2024-01-07,FJADRAR-014,Fjädrar Cushion,Decoration,21.0,23.1,0,Porto,796,False,4.61,OPO_FC,31.74,False
+2024-07-08,ALEX-012,Alex Drawer Unit,Office,6.3,93.31,0,Porto,746,True,3.99,OPO_FC,33.03,False
+2024-07-13,RASKOG-013,Råskog Cart,Storage,33.71,36.75,1,Rome,639,False,3.96,ROM_FC,12.47,False
+2024-12-25,FRIHET-010,Friheten Sofa Bed,Living Room,15.13,610.36,0,Rome,545,True,3.82,ROM_FC,32.51,False
+2024-10-30,ALEX-012,Alex Drawer Unit,Office,13.57,93.31,0,Thessaloniki,332,True,4.0,THS_FC,33.03,False
+2025-03-16,FORNYAD-011,Förnyad Mug,Kitchen,37.11,3.44,0,Porto,573,False,3.9,OPO_FC,35.89,False
+2024-03-01,FRIHET-010,Friheten Sofa Bed,Living Room,22.95,610.36,0,Athens,587,True,4.92,ATH_FC,32.51,False
+2024-06-19,ALEX-012,Alex Drawer Unit,Office,43.8,93.31,0,Athens,140,True,4.73,ATH_FC,33.03,False
+2024-10-22,FJADRAR-014,Fjädrar Cushion,Decoration,15.9,23.1,0,Bordeaux,721,False,4.91,BDX_FC,31.74,False
+2024-10-21,ALEX-012,Alex Drawer Unit,Office,6.71,93.31,0,Rome,474,True,4.69,ROM_FC,33.03,False
+2024-11-05,ALEX-012,Alex Drawer Unit,Office,10.98,93.31,0,Porto,799,True,4.34,OPO_FC,33.03,False
+2025-02-11,ALEX-012,Alex Drawer Unit,Office,20.7,93.31,0,Thessaloniki,300,True,4.15,THS_FC,33.03,False
+2025-04-24,FJADRAR-014,Fjädrar Cushion,Decoration,6.38,23.1,0,Valencia,201,False,4.95,VLC_FC,31.74,False
+2024-06-22,FRIHET-010,Friheten Sofa Bed,Living Room,10.37,610.36,0,Milan,290,True,3.96,MIL_FC,32.51,False
+2024-07-13,MALM-009,Malm Dresser,Bedroom,44.17,200.76,0,Barcelona,162,True,3.83,BCN_FC,32.46,False
+2024-08-08,ALEX-012,Alex Drawer Unit,Office,33.51,69.98,1,Porto,547,True,4.7,OPO_FC,10.71,False
+2025-04-25,FRIHET-010,Friheten Sofa Bed,Living Room,23.54,610.36,0,Rome,199,True,3.89,ROM_FC,32.51,False
+2024-11-28,MALM-009,Malm Dresser,Bedroom,47.68,200.76,0,Valencia,235,True,4.72,VLC_FC,32.46,False
+2024-11-01,FRIHET-010,Friheten Sofa Bed,Living Room,31.37,610.36,0,Rome,414,True,4.94,ROM_FC,32.51,False
+2024-11-20,MALM-009,Malm Dresser,Bedroom,28.51,200.76,0,Barcelona,230,True,4.63,BCN_FC,32.46,False
+2024-09-07,FJADRAR-014,Fjädrar Cushion,Decoration,19.26,23.1,0,Barcelona,572,False,4.97,BCN_FC,31.74,True
+2024-11-18,FJADRAR-014,Fjädrar Cushion,Decoration,20.36,23.1,0,Rome,318,False,4.46,ROM_FC,31.74,True
+2024-03-05,ALEX-012,Alex Drawer Unit,Office,22.41,93.31,0,Barcelona,385,True,4.75,BCN_FC,33.03,False
+2024-10-30,MALM-009,Malm Dresser,Bedroom,24.24,200.76,0,Thessaloniki,634,True,4.38,THS_FC,32.46,False
+2025-05-09,FJADRAR-014,Fjädrar Cushion,Decoration,38.95,23.1,0,Porto,598,False,4.57,OPO_FC,31.74,False
+2024-10-16,RASKOG-013,Råskog Cart,Storage,10.28,49.0,0,Athens,649,False,4.07,ATH_FC,34.36,False
+2024-12-05,FJADRAR-014,Fjädrar Cushion,Decoration,12.51,17.32,1,Valencia,504,False,4.46,VLC_FC,8.99,False
+2024-04-05,RASKOG-013,Råskog Cart,Storage,10.73,49.0,0,Marseille,794,False,3.83,MRS_FC,34.36,False
+2024-11-05,FRIHET-010,Friheten Sofa Bed,Living Room,40.22,610.36,0,Marseille,333,True,4.51,MRS_FC,32.51,False
+2024-05-15,FJADRAR-014,Fjädrar Cushion,Decoration,7.6,23.1,0,Thessaloniki,272,False,4.09,THS_FC,31.74,False
+2024-08-31,RASKOG-013,Råskog Cart,Storage,33.11,49.0,0,Marseille,612,False,3.91,MRS_FC,34.36,True
+2024-10-17,ALEX-012,Alex Drawer Unit,Office,12.29,93.31,0,Thessaloniki,411,True,4.27,THS_FC,33.03,False
+2025-01-30,FORNYAD-011,Förnyad Mug,Kitchen,22.79,2.58,1,Barcelona,328,False,4.93,BCN_FC,14.53,False
+2024-08-22,RASKOG-013,Råskog Cart,Storage,21.7,49.0,0,Marseille,65,False,4.12,MRS_FC,34.36,False
+2025-05-06,FRIHET-010,Friheten Sofa Bed,Living Room,49.82,610.36,0,Milan,529,True,3.83,MIL_FC,32.51,False
+2024-09-28,FRIHET-010,Friheten Sofa Bed,Living Room,33.02,610.36,0,Bordeaux,72,True,4.04,BDX_FC,32.51,False
+2024-03-19,RASKOG-013,Råskog Cart,Storage,28.19,36.75,1,Barcelona,459,False,3.8,BCN_FC,12.47,False
+2024-08-07,FORNYAD-011,Förnyad Mug,Kitchen,18.74,3.44,0,Naples,777,False,3.92,NAP_FC,35.89,False
+2024-12-07,RASKOG-013,Råskog Cart,Storage,45.31,36.75,1,Rome,503,False,4.44,ROM_FC,12.47,False
+2024-09-21,ALEX-012,Alex Drawer Unit,Office,34.39,69.98,1,Naples,513,True,4.13,NAP_FC,10.71,False
+2024-05-07,MALM-009,Malm Dresser,Bedroom,40.85,200.76,0,Rome,505,True,4.4,ROM_FC,32.46,False
+2024-03-29,FRIHET-010,Friheten Sofa Bed,Living Room,13.08,610.36,0,Marseille,413,True,4.89,MRS_FC,32.51,False
+2024-09-21,FORNYAD-011,Förnyad Mug,Kitchen,42.83,2.58,1,Rome,566,False,4.48,ROM_FC,14.53,False
+2024-01-17,RASKOG-013,Råskog Cart,Storage,11.32,49.0,0,Milan,599,False,4.59,MIL_FC,34.36,False
+2024-11-23,FRIHET-010,Friheten Sofa Bed,Living Room,42.28,610.36,0,Milan,521,True,3.97,MIL_FC,32.51,False
+2024-06-10,FJADRAR-014,Fjädrar Cushion,Decoration,38.08,17.32,1,Valencia,579,False,4.21,VLC_FC,8.99,False
+2024-09-24,MALM-009,Malm Dresser,Bedroom,9.59,200.76,0,Thessaloniki,405,True,4.94,THS_FC,32.46,False
+2024-10-28,FJADRAR-014,Fjädrar Cushion,Decoration,7.87,23.1,0,Valencia,303,False,4.11,VLC_FC,31.74,False
+2024-07-16,FORNYAD-011,Förnyad Mug,Kitchen,12.42,2.58,1,Marseille,47,False,3.89,MRS_FC,14.53,False
+2024-06-07,FRIHET-010,Friheten Sofa Bed,Living Room,40.37,610.36,0,Bordeaux,492,True,4.21,BDX_FC,32.51,False
+2024-05-08,ALEX-012,Alex Drawer Unit,Office,11.5,93.31,0,Valencia,216,True,4.44,VLC_FC,33.03,False
+2024-12-08,FRIHET-010,Friheten Sofa Bed,Living Room,12.82,610.36,0,Milan,229,True,4.08,MIL_FC,32.51,False
+2024-10-05,FRIHET-010,Friheten Sofa Bed,Living Room,46.15,610.36,0,Valencia,426,True,4.9,VLC_FC,32.51,False
+2024-07-29,ALEX-012,Alex Drawer Unit,Office,11.19,69.98,1,Porto,35,True,4.91,OPO_FC,10.71,False
+2025-05-06,RASKOG-013,Råskog Cart,Storage,31.57,49.0,0,Porto,182,False,4.97,OPO_FC,34.36,False
+2025-03-11,MALM-009,Malm Dresser,Bedroom,29.46,200.76,0,Bordeaux,172,True,4.24,BDX_FC,32.46,False
+2024-10-29,FJADRAR-014,Fjädrar Cushion,Decoration,19.48,23.1,0,Marseille,297,False,4.79,MRS_FC,31.74,True
+2024-11-05,FJADRAR-014,Fjädrar Cushion,Decoration,27.03,23.1,0,Thessaloniki,438,False,4.86,THS_FC,31.74,True
+2024-07-18,ALEX-012,Alex Drawer Unit,Office,26.47,93.31,0,Milan,310,True,4.52,MIL_FC,33.03,False
+2024-06-09,ALEX-012,Alex Drawer Unit,Office,6.94,69.98,1,Barcelona,664,True,4.42,BCN_FC,10.71,False
+2024-03-01,FORNYAD-011,Förnyad Mug,Kitchen,48.45,3.44,0,Naples,43,False,3.95,NAP_FC,35.89,False
+2024-02-18,FJADRAR-014,Fjädrar Cushion,Decoration,7.26,23.1,0,Bordeaux,487,False,3.96,BDX_FC,31.74,False
+2024-12-21,FORNYAD-011,Förnyad Mug,Kitchen,37.46,3.44,0,Rome,800,False,4.63,ROM_FC,35.89,False
+2025-05-11,ALEX-012,Alex Drawer Unit,Office,30.53,93.31,0,Porto,286,True,4.07,OPO_FC,33.03,False
+2024-02-14,FORNYAD-011,Förnyad Mug,Kitchen,29.82,3.44,0,Naples,194,False,4.18,NAP_FC,35.89,True
+2025-04-30,FORNYAD-011,Förnyad Mug,Kitchen,49.49,3.44,0,Rome,122,False,4.78,ROM_FC,35.89,False
+2024-10-29,FJADRAR-014,Fjädrar Cushion,Decoration,24.65,23.1,0,Thessaloniki,430,False,4.43,THS_FC,31.74,False
+2024-12-21,FJADRAR-014,Fjädrar Cushion,Decoration,38.65,23.1,0,Marseille,452,False,4.77,MRS_FC,31.74,True
+2025-04-25,RASKOG-013,Råskog Cart,Storage,46.3,49.0,0,Barcelona,462,False,4.53,BCN_FC,34.36,False
+2024-06-07,FRIHET-010,Friheten Sofa Bed,Living Room,7.55,610.36,0,Barcelona,313,True,4.62,BCN_FC,32.51,False
+2024-10-12,ALEX-012,Alex Drawer Unit,Office,41.35,93.31,0,Porto,211,True,4.05,OPO_FC,33.03,False
+2024-08-22,FJADRAR-014,Fjädrar Cushion,Decoration,8.58,17.32,1,Barcelona,639,False,4.36,BCN_FC,8.99,True
+2024-06-02,FRIHET-010,Friheten Sofa Bed,Living Room,29.25,610.36,0,Rome,617,True,4.28,ROM_FC,32.51,False
+2025-04-01,FORNYAD-011,Förnyad Mug,Kitchen,22.9,3.44,0,Valencia,526,False,4.12,VLC_FC,35.89,False
+2024-08-23,RASKOG-013,Råskog Cart,Storage,34.38,49.0,0,Milan,686,False,4.04,MIL_FC,34.36,False
+2024-10-14,ALEX-012,Alex Drawer Unit,Office,23.72,69.98,1,Valencia,767,True,3.97,VLC_FC,10.71,False
+2024-09-21,FORNYAD-011,Förnyad Mug,Kitchen,28.39,2.58,1,Barcelona,634,False,4.54,BCN_FC,14.53,False
+2025-03-16,ALEX-012,Alex Drawer Unit,Office,21.9,93.31,0,Porto,572,True,3.96,OPO_FC,33.03,False
+2024-12-07,FRIHET-010,Friheten Sofa Bed,Living Room,40.27,610.36,0,Marseille,588,True,4.38,MRS_FC,32.51,False
+2024-12-31,MALM-009,Malm Dresser,Bedroom,22.28,200.76,0,Naples,325,True,4.49,NAP_FC,32.46,True
+2025-03-10,FORNYAD-011,Förnyad Mug,Kitchen,12.01,3.44,0,Marseille,796,False,4.82,MRS_FC,35.89,False
+2024-09-15,MALM-009,Malm Dresser,Bedroom,27.46,200.76,0,Barcelona,288,True,4.73,BCN_FC,32.46,False
+2024-11-30,MALM-009,Malm Dresser,Bedroom,47.17,150.57,1,Thessaloniki,396,True,3.95,THS_FC,9.95,False
+2025-04-06,ALEX-012,Alex Drawer Unit,Office,31.19,93.31,0,Porto,115,True,4.68,OPO_FC,33.03,False
+2025-04-11,FRIHET-010,Friheten Sofa Bed,Living Room,20.88,610.36,0,Rome,689,True,4.61,ROM_FC,32.51,True
+2024-03-25,FRIHET-010,Friheten Sofa Bed,Living Room,40.85,610.36,0,Milan,669,True,3.97,MIL_FC,32.51,False
+2025-02-08,FRIHET-010,Friheten Sofa Bed,Living Room,8.71,610.36,0,Thessaloniki,570,True,4.44,THS_FC,32.51,False
+2024-07-09,FRIHET-010,Friheten Sofa Bed,Living Room,48.13,610.36,0,Athens,454,True,4.05,ATH_FC,32.51,False
+2025-05-15,FRIHET-010,Friheten Sofa Bed,Living Room,32.46,457.77,1,Porto,352,True,4.02,OPO_FC,10.01,False
+2025-01-30,FORNYAD-011,Förnyad Mug,Kitchen,29.06,3.44,0,Rome,707,False,4.23,ROM_FC,35.89,True
+2024-02-10,MALM-009,Malm Dresser,Bedroom,30.18,200.76,0,Barcelona,582,True,4.18,BCN_FC,32.46,False
+2024-10-01,ALEX-012,Alex Drawer Unit,Office,48.38,93.31,0,Marseille,564,True,3.93,MRS_FC,33.03,True
+2024-12-18,RASKOG-013,Råskog Cart,Storage,26.79,49.0,0,Marseille,39,False,4.12,MRS_FC,34.36,False
+2024-04-06,FORNYAD-011,Förnyad Mug,Kitchen,15.01,2.58,1,Barcelona,252,False,4.17,BCN_FC,14.53,False
+2024-08-13,FRIHET-010,Friheten Sofa Bed,Living Room,43.48,610.36,0,Naples,520,True,4.83,NAP_FC,32.51,False
+2025-04-05,FJADRAR-014,Fjädrar Cushion,Decoration,7.42,23.1,0,Thessaloniki,473,False,4.8,THS_FC,31.74,False
+2024-05-23,RASKOG-013,Råskog Cart,Storage,29.19,36.75,1,Valencia,377,False,4.86,VLC_FC,12.47,False
+2024-09-08,FRIHET-010,Friheten Sofa Bed,Living Room,24.19,610.36,0,Naples,479,True,4.45,NAP_FC,32.51,False
+2025-04-30,FJADRAR-014,Fjädrar Cushion,Decoration,19.06,23.1,0,Bordeaux,31,False,4.36,BDX_FC,31.74,False
+2024-10-31,ALEX-012,Alex Drawer Unit,Office,12.92,93.31,0,Thessaloniki,734,True,4.23,THS_FC,33.03,False
+2024-12-25,FJADRAR-014,Fjädrar Cushion,Decoration,21.73,23.1,0,Athens,770,False,4.86,ATH_FC,31.74,True
+2025-04-16,FJADRAR-014,Fjädrar Cushion,Decoration,36.44,23.1,0,Milan,699,False,4.43,MIL_FC,31.74,True
+2024-07-05,ALEX-012,Alex Drawer Unit,Office,48.26,93.31,0,Rome,620,True,4.83,ROM_FC,33.03,False
+2024-07-01,RASKOG-013,Råskog Cart,Storage,34.05,49.0,0,Valencia,163,False,4.87,VLC_FC,34.36,False
+2024-06-17,RASKOG-013,Råskog Cart,Storage,41.16,49.0,0,Thessaloniki,108,False,3.88,THS_FC,34.36,False
+2024-10-28,FRIHET-010,Friheten Sofa Bed,Living Room,47.76,610.36,0,Porto,376,True,4.3,OPO_FC,32.51,False
+2025-03-20,FJADRAR-014,Fjädrar Cushion,Decoration,24.09,23.1,0,Rome,739,False,4.85,ROM_FC,31.74,False
+2024-07-19,FORNYAD-011,Förnyad Mug,Kitchen,46.31,2.58,1,Marseille,684,False,4.19,MRS_FC,14.53,False
+2024-06-28,FORNYAD-011,Förnyad Mug,Kitchen,11.71,3.44,0,Marseille,504,False,4.09,MRS_FC,35.89,False
+2025-05-03,MALM-009,Malm Dresser,Bedroom,8.04,150.57,1,Barcelona,81,True,4.94,BCN_FC,9.95,False
+2024-08-21,RASKOG-013,Råskog Cart,Storage,32.11,49.0,0,Barcelona,246,False,4.57,BCN_FC,34.36,False
+2024-10-23,RASKOG-013,Råskog Cart,Storage,29.73,36.75,1,Porto,120,False,4.04,OPO_FC,12.47,False
+2024-08-07,BILLY-001,Billy Bookcase,Storage,34.0,411.75,1,Marrakech,170,True,4.6,MOR_FC_MR,16.36,False
+2024-01-22,FORNYAD-011,Förnyad Mug,Kitchen,28.24,3.44,0,Marseille,518,False,4.75,MRS_FC,35.89,True
+2024-12-25,FORNYAD-011,Förnyad Mug,Kitchen,6.45,2.58,1,Rome,711,False,4.69,ROM_FC,14.53,False
+2024-07-29,FRIHET-010,Friheten Sofa Bed,Living Room,49.34,610.36,0,Thessaloniki,453,True,4.95,THS_FC,32.51,True
+2025-02-26,FRIHET-010,Friheten Sofa Bed,Living Room,37.03,457.77,1,Porto,321,True,4.07,OPO_FC,10.01,False
+2024-11-05,FORNYAD-011,Förnyad Mug,Kitchen,49.09,3.44,0,Milan,742,False,4.31,MIL_FC,35.89,True
+2025-01-30,FRIHET-010,Friheten Sofa Bed,Living Room,40.33,610.36,0,Bordeaux,105,True,4.82,BDX_FC,32.51,False
+2024-01-09,RASKOG-013,Råskog Cart,Storage,15.43,49.0,0,Marseille,675,False,4.59,MRS_FC,34.36,False
+2024-07-27,RASKOG-013,Råskog Cart,Storage,5.89,49.0,0,Athens,640,False,4.04,ATH_FC,34.36,False
+2025-03-31,MALM-009,Malm Dresser,Bedroom,23.59,200.76,0,Rome,785,True,3.9,ROM_FC,32.46,False
+2024-07-18,MALM-009,Malm Dresser,Bedroom,47.7,200.76,0,Barcelona,314,True,3.82,BCN_FC,32.46,False
+2024-12-02,FORNYAD-011,Förnyad Mug,Kitchen,38.12,3.44,0,Porto,637,False,3.96,OPO_FC,35.89,False
+2024-04-15,ALEX-012,Alex Drawer Unit,Office,23.2,93.31,0,Thessaloniki,57,True,4.44,THS_FC,33.03,False
+2024-01-10,FJADRAR-014,Fjädrar Cushion,Decoration,15.97,23.1,0,Naples,410,False,4.9,NAP_FC,31.74,False
+2024-05-23,RASKOG-013,Råskog Cart,Storage,7.27,49.0,0,Rome,476,False,4.7,ROM_FC,34.36,True
+2024-12-20,FRIHET-010,Friheten Sofa Bed,Living Room,37.16,610.36,0,Naples,629,True,4.08,NAP_FC,32.51,False
+2025-04-07,FJADRAR-014,Fjädrar Cushion,Decoration,24.35,23.1,0,Bordeaux,484,False,4.28,BDX_FC,31.74,False
+2024-06-22,RASKOG-013,Råskog Cart,Storage,46.01,49.0,0,Athens,540,False,4.33,ATH_FC,34.36,False
+2025-04-18,FORNYAD-011,Förnyad Mug,Kitchen,13.16,3.44,0,Thessaloniki,91,False,3.97,THS_FC,35.89,True
+2024-07-27,ALEX-012,Alex Drawer Unit,Office,34.13,93.31,0,Bordeaux,101,True,4.89,BDX_FC,33.03,False
+2024-11-07,MALM-009,Malm Dresser,Bedroom,38.21,200.76,0,Athens,81,True,3.97,ATH_FC,32.46,False
+2024-09-28,RASKOG-013,Råskog Cart,Storage,12.7,49.0,0,Naples,365,False,4.81,NAP_FC,34.36,False
+2024-04-11,MALM-009,Malm Dresser,Bedroom,46.42,200.76,0,Milan,67,True,3.88,MIL_FC,32.46,True
+2024-08-10,MALM-009,Malm Dresser,Bedroom,12.81,200.76,0,Thessaloniki,418,True,4.06,THS_FC,32.46,False
+2024-11-24,RASKOG-013,Råskog Cart,Storage,10.05,49.0,0,Athens,114,False,4.33,ATH_FC,34.36,False
+2024-05-22,RASKOG-013,Råskog Cart,Storage,44.01,49.0,0,Naples,420,False,3.88,NAP_FC,34.36,False
+2025-03-19,FJADRAR-014,Fjädrar Cushion,Decoration,42.8,23.1,0,Marseille,511,False,4.36,MRS_FC,31.74,False
+2025-04-16,MALM-009,Malm Dresser,Bedroom,47.49,200.76,0,Thessaloniki,651,True,4.03,THS_FC,32.46,False
+2024-10-22,ALEX-012,Alex Drawer Unit,Office,37.85,93.31,0,Athens,355,True,4.32,ATH_FC,33.03,False
+2024-09-27,FJADRAR-014,Fjädrar Cushion,Decoration,45.14,17.32,1,Valencia,203,False,4.15,VLC_FC,8.99,True
+2024-11-13,FJADRAR-014,Fjädrar Cushion,Decoration,11.21,23.1,0,Barcelona,698,False,4.37,BCN_FC,31.74,False
+2024-11-16,FJADRAR-014,Fjädrar Cushion,Decoration,9.63,17.32,1,Milan,176,False,4.71,MIL_FC,8.99,True
+2024-08-13,FRIHET-010,Friheten Sofa Bed,Living Room,46.1,610.36,0,Porto,548,True,4.84,OPO_FC,32.51,False
+2024-03-10,FRIHET-010,Friheten Sofa Bed,Living Room,37.45,610.36,0,Bordeaux,717,True,4.09,BDX_FC,32.51,False
+2024-08-09,FORNYAD-011,Förnyad Mug,Kitchen,37.77,3.44,0,Milan,145,False,4.1,MIL_FC,35.89,True
+2024-12-23,ALEX-012,Alex Drawer Unit,Office,35.51,93.31,0,Thessaloniki,420,True,3.89,THS_FC,33.03,False
+2024-06-24,POANG-005,Poäng Chair,Living Room,25.0,499.0,0,Zenata,45,True,4.84,MOR_FC_ZN,31.08,False
+2025-04-14,MALM-009,Malm Dresser,Bedroom,19.2,200.76,0,Rome,576,True,4.37,ROM_FC,32.46,False
+2024-12-06,FJADRAR-014,Fjädrar Cushion,Decoration,44.41,23.1,0,Barcelona,213,False,4.7,BCN_FC,31.74,True
+2025-01-21,FRIHET-010,Friheten Sofa Bed,Living Room,6.72,610.36,0,Naples,341,True,4.32,NAP_FC,32.51,False
+2024-11-12,ALEX-012,Alex Drawer Unit,Office,17.76,93.31,0,Valencia,474,True,4.07,VLC_FC,33.03,False
+2024-01-31,ALEX-012,Alex Drawer Unit,Office,44.8,93.31,0,Marseille,579,True,4.25,MRS_FC,33.03,False
+2024-03-24,FORNYAD-011,Förnyad Mug,Kitchen,30.45,3.44,0,Naples,458,False,4.0,NAP_FC,35.89,False
+2024-11-27,ALEX-012,Alex Drawer Unit,Office,41.92,93.31,0,Thessaloniki,695,True,4.03,THS_FC,33.03,False
+2025-02-02,FRIHET-010,Friheten Sofa Bed,Living Room,15.88,457.77,1,Bordeaux,612,True,4.72,BDX_FC,10.01,False
+2024-11-01,FJADRAR-014,Fjädrar Cushion,Decoration,9.4,17.32,1,Thessaloniki,639,False,4.72,THS_FC,8.99,False
+2024-08-02,MALM-009,Malm Dresser,Bedroom,23.52,200.76,0,Milan,430,True,4.78,MIL_FC,32.46,False
+2024-08-18,KALLAX-002,Kallax Shelf,Storage,18.0,399.0,0,Marrakech,180,True,4.68,MOR_FC_MR,26.5,False
+2025-03-15,MALM-009,Malm Dresser,Bedroom,26.8,150.57,1,Porto,644,True,4.35,OPO_FC,9.95,False
+2024-07-16,ALEX-012,Alex Drawer Unit,Office,48.42,93.31,0,Milan,359,True,4.84,MIL_FC,33.03,False
+2025-02-25,FORNYAD-011,Förnyad Mug,Kitchen,8.31,3.44,0,Bordeaux,306,False,4.79,BDX_FC,35.89,False
+2024-06-09,MALM-009,Malm Dresser,Bedroom,6.43,200.76,0,Valencia,676,True,4.97,VLC_FC,32.46,False
+2024-10-23,FORNYAD-011,Förnyad Mug,Kitchen,6.23,3.44,0,Porto,665,False,4.33,OPO_FC,35.89,True
+2024-03-09,ALEX-012,Alex Drawer Unit,Office,24.23,93.31,0,Barcelona,327,True,4.51,BCN_FC,33.03,False
+2024-10-07,FJADRAR-014,Fjädrar Cushion,Decoration,32.48,23.1,0,Rome,259,False,4.44,ROM_FC,31.74,False
+2024-08-17,FJADRAR-014,Fjädrar Cushion,Decoration,14.23,23.1,0,Athens,81,False,4.97,ATH_FC,31.74,False
+2024-02-25,FORNYAD-011,Förnyad Mug,Kitchen,20.61,3.44,0,Valencia,110,False,4.79,VLC_FC,35.89,False
+2024-09-22,FJADRAR-014,Fjädrar Cushion,Decoration,7.78,23.1,0,Barcelona,453,False,4.18,BCN_FC,31.74,False
+2024-11-27,FJADRAR-014,Fjädrar Cushion,Decoration,35.16,23.1,0,Thessaloniki,721,False,4.89,THS_FC,31.74,False
+2024-04-03,FJADRAR-014,Fjädrar Cushion,Decoration,23.28,23.1,0,Thessaloniki,523,False,4.37,THS_FC,31.74,False
+2024-11-11,MALM-009,Malm Dresser,Bedroom,10.3,150.57,1,Bordeaux,223,True,4.53,BDX_FC,9.95,False
+2024-07-15,MALM-009,Malm Dresser,Bedroom,27.42,150.57,1,Barcelona,639,True,4.62,BCN_FC,9.95,False
+2024-10-30,MALM-009,Malm Dresser,Bedroom,33.69,200.76,0,Valencia,715,True,3.99,VLC_FC,32.46,False
+2024-08-25,FJADRAR-014,Fjädrar Cushion,Decoration,29.73,23.1,0,Valencia,616,False,4.22,VLC_FC,31.74,False
+2024-09-11,FRIHET-010,Friheten Sofa Bed,Living Room,18.52,610.36,0,Athens,42,True,4.73,ATH_FC,32.51,False
+2025-05-02,MALM-009,Malm Dresser,Bedroom,10.21,150.57,1,Barcelona,278,True,4.37,BCN_FC,9.95,False
+2024-05-10,RASKOG-013,Råskog Cart,Storage,8.1,49.0,0,Bordeaux,289,False,4.45,BDX_FC,34.36,False
+2025-03-31,FORNYAD-011,Förnyad Mug,Kitchen,49.95,3.44,0,Rome,185,False,4.64,ROM_FC,35.89,False
+2025-03-05,FORNYAD-011,Förnyad Mug,Kitchen,14.78,3.44,0,Bordeaux,723,False,4.21,BDX_FC,35.89,False
+2024-02-28,FRIHET-010,Friheten Sofa Bed,Living Room,41.36,457.77,1,Valencia,687,True,5.0,VLC_FC,10.01,False
+2024-12-13,FRIHET-010,Friheten Sofa Bed,Living Room,5.38,610.36,0,Bordeaux,433,True,4.93,BDX_FC,32.51,False
+2024-03-04,MALM-009,Malm Dresser,Bedroom,18.54,200.76,0,Marseille,324,True,4.05,MRS_FC,32.46,False
+2025-05-15,MALM-009,Malm Dresser,Bedroom,47.54,200.76,0,Barcelona,183,True,4.78,BCN_FC,32.46,False
+2024-12-31,FORNYAD-011,Förnyad Mug,Kitchen,47.04,3.44,0,Marseille,309,False,4.67,MRS_FC,35.89,False
+2024-12-20,ALEX-012,Alex Drawer Unit,Office,18.07,93.31,0,Thessaloniki,374,True,4.91,THS_FC,33.03,False
+2024-10-15,MALM-009,Malm Dresser,Bedroom,8.32,150.57,1,Thessaloniki,317,True,4.33,THS_FC,9.95,False
+2024-02-03,ALEX-012,Alex Drawer Unit,Office,39.82,69.98,1,Marseille,321,True,4.54,MRS_FC,10.71,False
+2024-09-02,RASKOG-013,Råskog Cart,Storage,47.75,49.0,0,Naples,756,False,4.87,NAP_FC,34.36,False
+2024-11-15,LACK-004,Lack Table,Living Room,60.0,69.98,1,Zenata,200,True,3.98,MOR_FC_ZN,10.71,True
+2025-03-06,FRIHET-010,Friheten Sofa Bed,Living Room,40.05,457.77,1,Thessaloniki,775,True,4.3,THS_FC,10.01,False
+2025-01-30,MALM-009,Malm Dresser,Bedroom,10.15,200.76,0,Valencia,58,True,4.35,VLC_FC,32.46,False
+2024-08-21,FRIHET-010,Friheten Sofa Bed,Living Room,42.27,610.36,0,Athens,274,True,4.26,ATH_FC,32.51,False
+2024-12-01,ALEX-012,Alex Drawer Unit,Office,22.1,93.31,0,Thessaloniki,460,True,4.78,THS_FC,33.03,False
+2024-10-18,ALEX-012,Alex Drawer Unit,Office,9.06,93.31,0,Barcelona,450,True,4.17,BCN_FC,33.03,False
+2024-01-14,BILLY-001,Billy Bookcase,Storage,41.0,411.75,1,Zenata,130,True,4.55,MOR_FC_ZN,16.36,True
+2024-07-21,RASKOG-013,Råskog Cart,Storage,47.72,49.0,0,Milan,191,False,4.97,MIL_FC,34.36,True
+2024-02-17,ALEX-012,Alex Drawer Unit,Office,47.64,93.31,0,Porto,284,True,4.9,OPO_FC,33.03,False
+2024-04-27,FORNYAD-011,Förnyad Mug,Kitchen,12.54,3.44,0,Valencia,784,False,4.94,VLC_FC,35.89,False
+2024-12-02,ALEX-012,Alex Drawer Unit,Office,45.26,93.31,0,Rome,396,True,4.02,ROM_FC,33.03,False
+2024-12-08,FORNYAD-011,Förnyad Mug,Kitchen,35.33,2.58,1,Barcelona,390,False,4.54,BCN_FC,14.53,False
+2024-10-27,FJADRAR-014,Fjädrar Cushion,Decoration,22.05,17.32,1,Milan,762,False,4.57,MIL_FC,8.99,False
+2025-05-01,FJADRAR-014,Fjädrar Cushion,Decoration,28.65,23.1,0,Naples,597,False,3.93,NAP_FC,31.74,False
+2024-03-11,FRIHET-010,Friheten Sofa Bed,Living Room,21.54,610.36,0,Valencia,604,True,4.07,VLC_FC,32.51,False
+2024-11-05,FRIHET-010,Friheten Sofa Bed,Living Room,12.92,457.77,1,Rome,713,True,3.96,ROM_FC,10.01,False
+2024-09-12,RASKOG-013,Råskog Cart,Storage,25.32,36.75,1,Marseille,197,False,4.62,MRS_FC,12.47,False
+2024-08-01,FORNYAD-011,Förnyad Mug,Kitchen,5.19,3.44,0,Milan,536,False,4.82,MIL_FC,35.89,False
+2024-02-01,HEMNES-003,Hemnes Bed,Bedroom,4.0,1990.0,0,Zenata,116,True,3.93,MOR_FC_ZN,30.92,False
+2024-08-21,FJADRAR-014,Fjädrar Cushion,Decoration,43.47,23.1,0,Marseille,477,False,4.74,MRS_FC,31.74,True
+2024-07-13,MALM-009,Malm Dresser,Bedroom,20.81,200.76,0,Athens,109,True,4.06,ATH_FC,32.46,False
+2024-08-22,FJADRAR-014,Fjädrar Cushion,Decoration,48.32,23.1,0,Valencia,303,False,4.84,VLC_FC,31.74,False
+2025-01-05,FJADRAR-014,Fjädrar Cushion,Decoration,19.25,17.32,1,Milan,335,False,4.33,MIL_FC,8.99,True
+2024-06-12,MALM-009,Malm Dresser,Bedroom,26.39,200.76,0,Naples,111,True,4.1,NAP_FC,32.46,False
+2024-04-27,STOCK-006,Stockholm Sofa,Living Room,9.0,3499.0,0,Zenata,70,True,4.64,MOR_FC_ZN,39.64,False
+2024-12-01,ALEX-012,Alex Drawer Unit,Office,11.4,69.98,1,Barcelona,332,True,4.87,BCN_FC,10.71,False
+2024-06-18,ALEX-012,Alex Drawer Unit,Office,11.2,93.31,0,Marseille,670,True,4.44,MRS_FC,33.03,False
+2024-03-22,MALM-009,Malm Dresser,Bedroom,30.2,150.57,1,Barcelona,308,True,4.84,BCN_FC,9.95,False
+2025-05-15,RASKOG-013,Råskog Cart,Storage,34.62,49.0,0,Barcelona,301,False,4.74,BCN_FC,34.36,False
+2025-02-22,FRIHET-010,Friheten Sofa Bed,Living Room,7.15,610.36,0,Athens,488,True,3.88,ATH_FC,32.51,False
+2024-04-28,FORNYAD-011,Förnyad Mug,Kitchen,38.7,3.44,0,Milan,415,False,3.86,MIL_FC,35.89,False
+2024-05-03,FJADRAR-014,Fjädrar Cushion,Decoration,19.62,23.1,0,Naples,602,False,3.96,NAP_FC,31.74,False
+2024-02-13,HEMNES-003,Hemnes Bed,Bedroom,8.0,1990.0,0,Zenata,90,True,4.39,MOR_FC_ZN,30.92,False
+2025-04-12,MALM-009,Malm Dresser,Bedroom,33.58,150.57,1,Athens,330,True,4.54,ATH_FC,9.95,False
+2024-10-09,RASKOG-013,Råskog Cart,Storage,32.46,49.0,0,Thessaloniki,231,False,4.78,THS_FC,34.36,False
+2025-02-17,FORNYAD-011,Förnyad Mug,Kitchen,39.38,3.44,0,Marseille,587,False,4.62,MRS_FC,35.89,False
+2024-10-14,RASKOG-013,Råskog Cart,Storage,25.58,49.0,0,Valencia,530,False,3.81,VLC_FC,34.36,False
+2024-11-19,ALEX-012,Alex Drawer Unit,Office,11.7,93.31,0,Barcelona,700,True,4.27,BCN_FC,33.03,False
+2024-11-16,RASKOG-013,Råskog Cart,Storage,8.08,49.0,0,Valencia,433,False,3.94,VLC_FC,34.36,False
+2025-03-05,RASKOG-013,Råskog Cart,Storage,10.87,49.0,0,Marseille,519,False,4.27,MRS_FC,34.36,False
+2024-12-20,FJADRAR-014,Fjädrar Cushion,Decoration,22.87,23.1,0,Thessaloniki,490,False,4.91,THS_FC,31.74,False
+2024-12-06,FJADRAR-014,Fjädrar Cushion,Decoration,35.54,17.32,1,Milan,372,False,4.93,MIL_FC,8.99,False
+2024-07-25,FRIHET-010,Friheten Sofa Bed,Living Room,32.72,610.36,0,Milan,122,True,3.97,MIL_FC,32.51,False
+2025-03-07,FJADRAR-014,Fjädrar Cushion,Decoration,6.53,23.1,0,Marseille,724,False,4.52,MRS_FC,31.74,False
+2024-01-16,ALEX-012,Alex Drawer Unit,Office,36.82,93.31,0,Thessaloniki,648,True,4.74,THS_FC,33.03,False
+2024-12-05,RASKOG-013,Råskog Cart,Storage,13.82,49.0,0,Marseille,504,False,4.77,MRS_FC,34.36,False
+2025-01-21,ALEX-012,Alex Drawer Unit,Office,11.66,93.31,0,Athens,783,True,3.86,ATH_FC,33.03,False
+2025-04-15,ALEX-012,Alex Drawer Unit,Office,43.51,69.98,1,Thessaloniki,137,True,4.65,THS_FC,10.71,False
+2024-06-02,FORNYAD-011,Förnyad Mug,Kitchen,45.18,2.58,1,Marseille,752,False,4.02,MRS_FC,14.53,False
+2024-01-06,FJADRAR-014,Fjädrar Cushion,Decoration,16.9,23.1,0,Valencia,179,False,4.13,VLC_FC,31.74,False
+2025-01-25,RASKOG-013,Råskog Cart,Storage,27.05,49.0,0,Marseille,70,False,4.24,MRS_FC,34.36,True
+2024-11-21,FJADRAR-014,Fjädrar Cushion,Decoration,15.04,17.32,1,Barcelona,430,False,3.88,BCN_FC,8.99,False
+2024-11-25,RASKOG-013,Råskog Cart,Storage,29.91,49.0,0,Thessaloniki,583,False,4.2,THS_FC,34.36,False
+2024-12-31,FORNYAD-011,Förnyad Mug,Kitchen,42.49,3.44,0,Marseille,503,False,4.76,MRS_FC,35.89,False
+2024-09-27,FRIHET-010,Friheten Sofa Bed,Living Room,34.56,610.36,0,Valencia,774,True,3.87,VLC_FC,32.51,False
+2024-06-19,FJADRAR-014,Fjädrar Cushion,Decoration,7.76,17.32,1,Naples,72,False,4.59,NAP_FC,8.99,False
+2025-02-19,RASKOG-013,Råskog Cart,Storage,29.24,49.0,0,Athens,316,False,4.49,ATH_FC,34.36,False
+2025-04-17,FJADRAR-014,Fjädrar Cushion,Decoration,23.87,23.1,0,Bordeaux,331,False,4.67,BDX_FC,31.74,False
+2024-07-20,FRIHET-010,Friheten Sofa Bed,Living Room,40.2,610.36,0,Barcelona,341,True,4.52,BCN_FC,32.51,False
+2024-03-25,FORNYAD-011,Förnyad Mug,Kitchen,29.89,3.44,0,Thessaloniki,597,False,4.74,THS_FC,35.89,False
+2024-08-19,FRIHET-010,Friheten Sofa Bed,Living Room,48.93,610.36,0,Rome,45,True,4.02,ROM_FC,32.51,False
+2024-07-17,RASKOG-013,Råskog Cart,Storage,7.0,49.0,0,Rome,571,False,4.62,ROM_FC,34.36,False
+2024-08-19,FRIHET-010,Friheten Sofa Bed,Living Room,5.58,610.36,0,Rome,523,True,4.29,ROM_FC,32.51,False
+2025-03-19,KALLAX-002,Kallax Shelf,Storage,24.0,299.25,1,Zenata,100,True,4.95,MOR_FC_ZN,2.0,True
+2025-01-30,FJADRAR-014,Fjädrar Cushion,Decoration,29.22,23.1,0,Porto,99,False,4.45,OPO_FC,31.74,False
+2024-09-17,FJADRAR-014,Fjädrar Cushion,Decoration,45.2,17.32,1,Valencia,456,False,4.7,VLC_FC,8.99,False
+2025-01-22,RASKOG-013,Råskog Cart,Storage,10.54,49.0,0,Porto,185,False,3.91,OPO_FC,34.36,False
+2024-05-07,FORNYAD-011,Förnyad Mug,Kitchen,33.76,2.58,1,Naples,711,False,4.46,NAP_FC,14.53,False
+2024-08-13,ALEX-012,Alex Drawer Unit,Office,31.2,93.31,0,Naples,728,True,4.3,NAP_FC,33.03,False
+2024-12-07,FRIHET-010,Friheten Sofa Bed,Living Room,24.78,610.36,0,Rome,522,True,4.44,ROM_FC,32.51,False
+2024-08-14,MALM-009,Malm Dresser,Bedroom,28.96,200.76,0,Athens,362,True,3.9,ATH_FC,32.46,True
+2025-01-10,ALEX-012,Alex Drawer Unit,Office,11.05,93.31,0,Valencia,348,True,4.12,VLC_FC,33.03,False
+2024-10-27,FRIHET-010,Friheten Sofa Bed,Living Room,44.04,610.36,0,Bordeaux,75,True,4.85,BDX_FC,32.51,False
+2024-05-11,FORNYAD-011,Förnyad Mug,Kitchen,39.06,2.58,1,Barcelona,24,False,4.55,BCN_FC,14.53,False
+2025-04-29,RASKOG-013,Råskog Cart,Storage,39.01,36.75,1,Porto,183,False,4.75,OPO_FC,12.47,True
+2024-12-07,RASKOG-013,Råskog Cart,Storage,25.4,49.0,0,Porto,79,False,4.47,OPO_FC,34.36,False
+2025-01-12,RASKOG-013,Råskog Cart,Storage,25.31,36.75,1,Rome,40,False,4.18,ROM_FC,12.47,True
+2025-04-07,RASKOG-013,Råskog Cart,Storage,18.9,49.0,0,Rome,158,False,4.32,ROM_FC,34.36,False
+2024-02-10,FORNYAD-011,Förnyad Mug,Kitchen,17.33,3.44,0,Marseille,390,False,4.42,MRS_FC,35.89,False
+2024-12-31,MALM-009,Malm Dresser,Bedroom,44.44,200.76,0,Rome,425,True,4.86,ROM_FC,32.46,False
+2025-01-13,ALEX-012,Alex Drawer Unit,Office,22.76,93.31,0,Bordeaux,419,True,4.79,BDX_FC,33.03,True
+2025-02-04,RASKOG-013,Råskog Cart,Storage,32.33,49.0,0,Naples,556,False,4.88,NAP_FC,34.36,False
+2025-04-06,MALM-009,Malm Dresser,Bedroom,7.74,150.57,1,Naples,508,True,4.4,NAP_FC,9.95,False
+2024-11-03,ALEX-012,Alex Drawer Unit,Office,43.36,93.31,0,Valencia,311,True,4.58,VLC_FC,33.03,False
+2024-08-14,FORNYAD-011,Förnyad Mug,Kitchen,11.18,3.44,0,Marseille,714,False,4.53,MRS_FC,35.89,False
+2024-07-14,MALM-009,Malm Dresser,Bedroom,46.66,150.57,1,Milan,247,True,4.25,MIL_FC,9.95,False
+2024-08-11,MALM-009,Malm Dresser,Bedroom,14.43,200.76,0,Thessaloniki,796,True,4.34,THS_FC,32.46,True
+2024-06-05,MALM-009,Malm Dresser,Bedroom,19.94,200.76,0,Rome,753,True,4.59,ROM_FC,32.46,False
+2024-06-15,FJADRAR-014,Fjädrar Cushion,Decoration,45.14,23.1,0,Valencia,615,False,4.49,VLC_FC,31.74,True
+2024-08-09,FRIHET-010,Friheten Sofa Bed,Living Room,11.74,610.36,0,Naples,139,True,4.62,NAP_FC,32.51,False
+2024-04-25,FJADRAR-014,Fjädrar Cushion,Decoration,26.53,17.32,1,Porto,753,False,4.73,OPO_FC,8.99,False
+2024-09-08,FJADRAR-014,Fjädrar Cushion,Decoration,37.43,23.1,0,Bordeaux,595,False,4.83,BDX_FC,31.74,True
+2024-12-01,FJADRAR-014,Fjädrar Cushion,Decoration,26.31,23.1,0,Athens,502,False,4.39,ATH_FC,31.74,True
+2025-03-12,MALM-009,Malm Dresser,Bedroom,8.71,200.76,0,Athens,304,True,4.1,ATH_FC,32.46,False
+2024-05-04,POANG-005,Poäng Chair,Living Room,6.0,499.0,0,Zenata,140,True,4.42,MOR_FC_ZN,31.08,False
+2024-10-04,FORNYAD-011,Förnyad Mug,Kitchen,30.36,3.44,0,Rome,187,False,4.3,ROM_FC,35.89,False
+2024-10-18,FRIHET-010,Friheten Sofa Bed,Living Room,47.15,610.36,0,Athens,195,True,4.44,ATH_FC,32.51,False
+2024-07-20,ALEX-012,Alex Drawer Unit,Office,10.94,93.31,0,Thessaloniki,165,True,4.11,THS_FC,33.03,False
+2024-02-05,ALEX-012,Alex Drawer Unit,Office,23.09,93.31,0,Thessaloniki,578,True,3.96,THS_FC,33.03,False
+2024-07-22,BILLY-001,Billy Bookcase,Storage,30.0,411.75,1,Zenata,150,True,4.79,MOR_FC_ZN,16.36,False
+2024-02-04,FRIHET-010,Friheten Sofa Bed,Living Room,40.46,610.36,0,Barcelona,316,True,4.85,BCN_FC,32.51,False
+2024-02-13,MALM-009,Malm Dresser,Bedroom,42.46,200.76,0,Thessaloniki,781,True,4.08,THS_FC,32.46,False
+2024-07-23,FORNYAD-011,Förnyad Mug,Kitchen,17.04,3.44,0,Barcelona,547,False,4.53,BCN_FC,35.89,True
+2024-11-21,ALEX-012,Alex Drawer Unit,Office,39.34,93.31,0,Rome,321,True,4.75,ROM_FC,33.03,True
+2024-07-29,RASKOG-013,Råskog Cart,Storage,39.75,49.0,0,Marseille,95,False,3.9,MRS_FC,34.36,False
+2024-09-28,MALM-009,Malm Dresser,Bedroom,25.2,200.76,0,Milan,46,True,3.91,MIL_FC,32.46,False
+2024-10-31,FRIHET-010,Friheten Sofa Bed,Living Room,17.52,610.36,0,Porto,183,True,4.64,OPO_FC,32.51,False
+2024-08-23,ALEX-012,Alex Drawer Unit,Office,32.79,93.31,0,Bordeaux,314,True,5.0,BDX_FC,33.03,False
+2025-01-21,FORNYAD-011,Förnyad Mug,Kitchen,18.76,3.44,0,Marseille,512,False,3.89,MRS_FC,35.89,False
+2024-09-07,MALM-009,Malm Dresser,Bedroom,7.46,200.76,0,Rome,187,True,4.65,ROM_FC,32.46,False
+2024-09-07,MALM-009,Malm Dresser,Bedroom,27.8,150.57,1,Athens,722,True,4.2,ATH_FC,9.95,False
+2024-07-18,RASKOG-013,Råskog Cart,Storage,41.58,49.0,0,Milan,569,False,4.74,MIL_FC,34.36,True
+2024-09-14,FRIHET-010,Friheten Sofa Bed,Living Room,7.65,610.36,0,Milan,285,True,4.98,MIL_FC,32.51,False
+2024-11-03,RASKOG-013,Råskog Cart,Storage,45.4,49.0,0,Bordeaux,517,False,3.83,BDX_FC,34.36,False
+2024-04-27,MALM-009,Malm Dresser,Bedroom,39.73,200.76,0,Porto,399,True,4.55,OPO_FC,32.46,True
+2025-04-13,RASKOG-013,Råskog Cart,Storage,7.74,49.0,0,Rome,568,False,4.62,ROM_FC,34.36,False
+2024-11-19,BILLY-001,Billy Bookcase,Storage,14.0,549.0,0,Zenata,336,True,4.87,MOR_FC_ZN,37.27,True
+2024-02-11,FRIHET-010,Friheten Sofa Bed,Living Room,20.67,610.36,0,Bordeaux,483,True,4.18,BDX_FC,32.51,False
+2024-11-22,ALEX-012,Alex Drawer Unit,Office,20.02,93.31,0,Marseille,31,True,4.57,MRS_FC,33.03,False
+2024-10-06,LACK-004,Lack Table,Living Room,42.0,69.98,1,Marrakech,240,True,4.53,MOR_FC_MR,10.71,False
+2025-04-04,FRIHET-010,Friheten Sofa Bed,Living Room,44.17,610.36,0,Bordeaux,643,True,4.04,BDX_FC,32.51,False
+2024-06-16,FORNYAD-011,Förnyad Mug,Kitchen,5.37,3.44,0,Valencia,150,False,4.82,VLC_FC,35.89,False
+2024-09-24,FRIHET-010,Friheten Sofa Bed,Living Room,8.15,610.36,0,Thessaloniki,341,True,4.6,THS_FC,32.51,False
+2024-10-03,FORNYAD-011,Förnyad Mug,Kitchen,26.73,2.58,1,Valencia,523,False,3.92,VLC_FC,14.53,False
+2024-02-20,ALEX-012,Alex Drawer Unit,Office,31.91,93.31,0,Porto,638,True,4.1,OPO_FC,33.03,False
+2024-01-10,POANG-005,Poäng Chair,Living Room,7.0,499.0,0,Zenata,128,True,4.59,MOR_FC_ZN,31.08,True
+2024-06-01,ALEX-012,Alex Drawer Unit,Office,38.97,93.31,0,Athens,310,True,4.61,ATH_FC,33.03,False
+2024-08-16,RASKOG-013,Råskog Cart,Storage,41.31,49.0,0,Porto,66,False,4.39,OPO_FC,34.36,False
+2024-08-18,FRIHET-010,Friheten Sofa Bed,Living Room,36.93,610.36,0,Valencia,556,True,4.86,VLC_FC,32.51,False
+2024-02-29,ALEX-012,Alex Drawer Unit,Office,8.81,93.31,0,Marseille,486,True,4.87,MRS_FC,33.03,False
+2025-02-02,FJADRAR-014,Fjädrar Cushion,Decoration,15.29,23.1,0,Naples,288,False,4.64,NAP_FC,31.74,False
+2024-11-18,FRIHET-010,Friheten Sofa Bed,Living Room,25.0,610.36,0,Valencia,496,True,4.41,VLC_FC,32.51,False
+2025-03-27,FJADRAR-014,Fjädrar Cushion,Decoration,45.92,17.32,1,Valencia,251,False,4.13,VLC_FC,8.99,False
+2024-11-09,FORNYAD-011,Förnyad Mug,Kitchen,34.9,3.44,0,Valencia,424,False,4.21,VLC_FC,35.89,False
+2024-08-24,MALM-009,Malm Dresser,Bedroom,12.49,150.57,1,Valencia,352,True,4.76,VLC_FC,9.95,False
+2024-11-08,FJADRAR-014,Fjädrar Cushion,Decoration,43.56,23.1,0,Barcelona,695,False,4.89,BCN_FC,31.74,True
+2024-12-15,FRIHET-010,Friheten Sofa Bed,Living Room,14.72,457.77,1,Naples,657,True,4.31,NAP_FC,10.01,False
+2024-09-05,ALEX-012,Alex Drawer Unit,Office,8.19,93.31,0,Milan,124,True,3.92,MIL_FC,33.03,False
+2024-11-11,RASKOG-013,Råskog Cart,Storage,12.3,49.0,0,Marseille,189,False,4.67,MRS_FC,34.36,False
+2024-03-06,FJADRAR-014,Fjädrar Cushion,Decoration,9.02,23.1,0,Thessaloniki,334,False,4.3,THS_FC,31.74,False
+2024-03-17,POANG-005,Poäng Chair,Living Room,17.0,499.0,0,Zenata,70,True,3.81,MOR_FC_ZN,31.08,False
+2024-03-03,RASKOG-013,Råskog Cart,Storage,23.38,49.0,0,Athens,150,False,4.03,ATH_FC,34.36,False
+2024-07-05,MALM-009,Malm Dresser,Bedroom,31.68,200.76,0,Naples,149,True,4.56,NAP_FC,32.46,False
+2024-12-15,MALM-009,Malm Dresser,Bedroom,32.22,200.76,0,Porto,457,True,4.53,OPO_FC,32.46,False
+2024-11-05,FRIHET-010,Friheten Sofa Bed,Living Room,23.91,457.77,1,Porto,213,True,3.88,OPO_FC,10.01,False
+2025-03-30,FJADRAR-014,Fjädrar Cushion,Decoration,44.35,17.32,1,Athens,389,False,4.1,ATH_FC,8.99,False
+2024-05-18,FORNYAD-011,Förnyad Mug,Kitchen,40.6,3.44,0,Marseille,274,False,4.46,MRS_FC,35.89,False
+2024-03-16,RASKOG-013,Råskog Cart,Storage,13.23,49.0,0,Athens,427,False,4.07,ATH_FC,34.36,True
+2024-03-05,FJADRAR-014,Fjädrar Cushion,Decoration,33.71,23.1,0,Bordeaux,754,False,4.37,BDX_FC,31.74,True
+2024-08-20,ALEX-012,Alex Drawer Unit,Office,29.58,93.31,0,Bordeaux,717,True,4.57,BDX_FC,33.03,False
+2024-06-20,ALEX-012,Alex Drawer Unit,Office,30.55,93.31,0,Valencia,262,True,4.15,VLC_FC,33.03,False
+2024-10-02,FRIHET-010,Friheten Sofa Bed,Living Room,28.54,457.77,1,Athens,98,True,4.9,ATH_FC,10.01,False
+2024-06-19,ALMHULT-007,Älmhult Lamp,Lighting,22.0,69.98,1,Zenata,160,False,4.31,MOR_FC_ZN,10.71,False
+2024-08-23,ALEX-012,Alex Drawer Unit,Office,36.05,93.31,0,Athens,190,True,3.94,ATH_FC,33.03,True
+2024-08-01,MALM-009,Malm Dresser,Bedroom,21.46,150.57,1,Bordeaux,706,True,4.84,BDX_FC,9.95,False
+2025-02-01,FRIHET-010,Friheten Sofa Bed,Living Room,28.67,610.36,0,Naples,98,True,4.1,NAP_FC,32.51,False
+2024-07-03,FJADRAR-014,Fjädrar Cushion,Decoration,47.41,23.1,0,Barcelona,180,False,3.86,BCN_FC,31.74,False
+2024-07-21,FJADRAR-014,Fjädrar Cushion,Decoration,39.4,23.1,0,Rome,721,False,4.13,ROM_FC,31.74,False
+2025-05-28,FORNYAD-011,Förnyad Mug,Kitchen,14.12,3.44,0,Rome,179,False,4.73,ROM_FC,35.89,True
+2024-11-22,FRIHET-010,Friheten Sofa Bed,Living Room,48.86,610.36,0,Valencia,539,True,4.74,VLC_FC,32.51,True
+2024-07-10,RASKOG-013,Råskog Cart,Storage,26.16,49.0,0,Bordeaux,319,False,4.34,BDX_FC,34.36,False
+2025-01-20,BILLY-001,Billy Bookcase,Storage,21.0,549.0,0,Marrakech,220,True,3.9,MOR_FC_MR,37.27,False
+2024-09-09,ALEX-012,Alex Drawer Unit,Office,29.74,69.98,1,Naples,576,True,4.79,NAP_FC,10.71,False
+2025-04-05,FORNYAD-011,Förnyad Mug,Kitchen,43.96,2.58,1,Thessaloniki,396,False,4.32,THS_FC,14.53,False
+2024-02-14,FJADRAR-014,Fjädrar Cushion,Decoration,16.96,17.32,1,Barcelona,331,False,3.89,BCN_FC,8.99,False
+2024-12-15,FORNYAD-011,Förnyad Mug,Kitchen,49.15,3.44,0,Marseille,235,False,4.82,MRS_FC,35.89,False
+2024-01-15,FRIHET-010,Friheten Sofa Bed,Living Room,26.85,610.36,0,Milan,80,True,4.0,MIL_FC,32.51,False
+2024-08-31,MALM-009,Malm Dresser,Bedroom,41.5,200.76,0,Rome,510,True,4.37,ROM_FC,32.46,False
+2025-01-13,RASKOG-013,Råskog Cart,Storage,41.04,49.0,0,Marseille,73,False,3.99,MRS_FC,34.36,True
+2024-06-02,FORNYAD-011,Förnyad Mug,Kitchen,6.98,3.44,0,Naples,633,False,4.4,NAP_FC,35.89,False
+2024-09-17,FRIHET-010,Friheten Sofa Bed,Living Room,23.67,610.36,0,Rome,83,True,4.05,ROM_FC,32.51,False
+2024-07-10,FORNYAD-011,Förnyad Mug,Kitchen,25.37,3.44,0,Athens,369,False,4.05,ATH_FC,35.89,False
+2024-07-21,MALM-009,Malm Dresser,Bedroom,8.31,200.76,0,Porto,87,True,3.95,OPO_FC,32.46,False
+2024-06-30,ALEX-012,Alex Drawer Unit,Office,13.72,93.31,0,Milan,637,True,4.48,MIL_FC,33.03,False
+2025-04-11,RASKOG-013,Råskog Cart,Storage,7.88,36.75,1,Milan,629,False,4.76,MIL_FC,12.47,False
+2025-04-17,FRIHET-010,Friheten Sofa Bed,Living Room,27.03,610.36,0,Bordeaux,481,True,4.54,BDX_FC,32.51,False
+2025-01-02,FJADRAR-014,Fjädrar Cushion,Decoration,5.3,23.1,0,Porto,513,False,4.25,OPO_FC,31.74,False
+2025-05-24,ALEX-012,Alex Drawer Unit,Office,36.65,93.31,0,Naples,431,True,4.33,NAP_FC,33.03,False
+2024-04-30,MALM-009,Malm Dresser,Bedroom,45.88,200.76,0,Porto,30,True,4.71,OPO_FC,32.46,False
+2025-05-06,FJADRAR-014,Fjädrar Cushion,Decoration,37.57,23.1,0,Bordeaux,366,False,4.42,BDX_FC,31.74,False
+2024-11-12,ALEX-012,Alex Drawer Unit,Office,5.33,93.31,0,Naples,403,True,4.47,NAP_FC,33.03,False
+2025-04-10,KALLAX-002,Kallax Shelf,Storage,11.0,399.0,0,Zenata,189,True,4.72,MOR_FC_ZN,26.5,False
+2024-06-05,FJADRAR-014,Fjädrar Cushion,Decoration,30.04,23.1,0,Thessaloniki,357,False,4.6,THS_FC,31.74,False
+2025-04-08,MALM-009,Malm Dresser,Bedroom,13.66,200.76,0,Bordeaux,74,True,4.95,BDX_FC,32.46,False
+2024-08-25,FORNYAD-011,Förnyad Mug,Kitchen,40.06,3.44,0,Rome,563,False,4.41,ROM_FC,35.89,False
+2025-03-31,KALLAX-002,Kallax Shelf,Storage,29.0,299.25,1,Marrakech,140,True,4.74,MOR_FC_MR,2.0,False
+2024-11-23,FORNYAD-011,Förnyad Mug,Kitchen,41.73,3.44,0,Rome,246,False,4.08,ROM_FC,35.89,False
+2024-09-09,FORNYAD-011,Förnyad Mug,Kitchen,14.55,3.44,0,Marseille,631,False,4.11,MRS_FC,35.89,True
+2024-01-18,RASKOG-013,Råskog Cart,Storage,7.05,49.0,0,Milan,149,False,4.57,MIL_FC,34.36,True
+2025-01-02,FORNYAD-011,Förnyad Mug,Kitchen,17.98,2.58,1,Marseille,31,False,3.89,MRS_FC,14.53,False
+2024-03-01,MALM-009,Malm Dresser,Bedroom,39.58,200.76,0,Marseille,179,True,3.81,MRS_FC,32.46,False
+2025-02-22,FJADRAR-014,Fjädrar Cushion,Decoration,20.87,23.1,0,Rome,303,False,3.87,ROM_FC,31.74,False
+2024-02-01,RASKOG-013,Råskog Cart,Storage,12.08,49.0,0,Milan,710,False,4.67,MIL_FC,34.36,False
+2024-10-07,FORNYAD-011,Förnyad Mug,Kitchen,44.44,3.44,0,Barcelona,69,False,4.51,BCN_FC,35.89,True
+2024-08-09,FJADRAR-014,Fjädrar Cushion,Decoration,7.98,23.1,0,Rome,651,False,4.39,ROM_FC,31.74,False
+2024-02-21,MALM-009,Malm Dresser,Bedroom,34.16,150.57,1,Barcelona,778,True,4.09,BCN_FC,9.95,False
+2024-09-20,FJADRAR-014,Fjädrar Cushion,Decoration,5.36,23.1,0,Marseille,70,False,4.89,MRS_FC,31.74,False
+2024-01-23,ALEX-012,Alex Drawer Unit,Office,14.85,69.98,1,Thessaloniki,398,True,4.08,THS_FC,10.71,False
+2024-11-25,FJADRAR-014,Fjädrar Cushion,Decoration,29.11,23.1,0,Thessaloniki,382,False,3.88,THS_FC,31.74,False
+2024-11-07,RASKOG-013,Råskog Cart,Storage,27.92,49.0,0,Milan,383,False,4.07,MIL_FC,34.36,True
+2024-10-04,MALM-009,Malm Dresser,Bedroom,42.59,150.57,1,Valencia,112,True,4.74,VLC_FC,9.95,False
+2024-03-22,RASKOG-013,Råskog Cart,Storage,42.05,49.0,0,Naples,401,False,4.73,NAP_FC,34.36,False
+2024-03-28,FRIHET-010,Friheten Sofa Bed,Living Room,22.7,610.36,0,Marseille,174,True,4.88,MRS_FC,32.51,False
+2024-03-07,FRIHET-010,Friheten Sofa Bed,Living Room,43.53,610.36,0,Milan,547,True,4.19,MIL_FC,32.51,False
+2024-11-18,FORNYAD-011,Förnyad Mug,Kitchen,27.92,3.44,0,Thessaloniki,359,False,4.93,THS_FC,35.89,False
+2024-11-05,FORNYAD-011,Förnyad Mug,Kitchen,41.09,3.44,0,Rome,276,False,4.61,ROM_FC,35.89,False
+2024-11-05,ALEX-012,Alex Drawer Unit,Office,24.74,69.98,1,Marseille,162,True,4.49,MRS_FC,10.71,False
+2024-04-08,FORNYAD-011,Förnyad Mug,Kitchen,10.73,3.44,0,Naples,129,False,4.19,NAP_FC,35.89,False
+2025-05-18,LACK-004,Lack Table,Living Room,33.0,69.98,1,Marrakech,310,True,3.94,MOR_FC_MR,10.71,False
+2025-01-06,FJADRAR-014,Fjädrar Cushion,Decoration,49.76,23.1,0,Thessaloniki,639,False,4.32,THS_FC,31.74,True
+2024-03-07,FRIHET-010,Friheten Sofa Bed,Living Room,28.25,610.36,0,Athens,672,True,3.82,ATH_FC,32.51,False
+2024-08-17,FJADRAR-014,Fjädrar Cushion,Decoration,6.62,23.1,0,Milan,460,False,3.95,MIL_FC,31.74,False
+2024-04-01,FORNYAD-011,Förnyad Mug,Kitchen,25.29,3.44,0,Rome,682,False,4.35,ROM_FC,35.89,True
+2024-09-24,RASKOG-013,Råskog Cart,Storage,19.59,49.0,0,Barcelona,334,False,4.09,BCN_FC,34.36,False
+2025-02-04,MALM-009,Malm Dresser,Bedroom,28.4,200.76,0,Marseille,517,True,4.37,MRS_FC,32.46,False
+2024-09-16,FJADRAR-014,Fjädrar Cushion,Decoration,5.07,23.1,0,Athens,140,False,4.68,ATH_FC,31.74,False
+2024-08-28,LACK-004,Lack Table,Living Room,38.0,69.98,1,Zenata,290,True,4.8,MOR_FC_ZN,10.71,False
+2024-12-13,MALM-009,Malm Dresser,Bedroom,31.17,200.76,0,Athens,729,True,3.96,ATH_FC,32.46,False
+2024-09-11,FRIHET-010,Friheten Sofa Bed,Living Room,9.16,610.36,0,Porto,617,True,4.43,OPO_FC,32.51,False
+2024-07-04,FRIHET-010,Friheten Sofa Bed,Living Room,35.38,610.36,0,Thessaloniki,719,True,4.81,THS_FC,32.51,False
+2024-11-28,FJADRAR-014,Fjädrar Cushion,Decoration,25.34,23.1,0,Rome,547,False,4.3,ROM_FC,31.74,False
+2024-03-14,ALEX-012,Alex Drawer Unit,Office,27.29,93.31,0,Valencia,729,True,4.68,VLC_FC,33.03,False
+2024-04-02,MALM-009,Malm Dresser,Bedroom,33.75,150.57,1,Barcelona,493,True,4.65,BCN_FC,9.95,False
+2024-01-02,FORNYAD-011,Förnyad Mug,Kitchen,30.06,3.44,0,Rome,287,False,4.23,ROM_FC,35.89,False
+2024-12-16,MALM-009,Malm Dresser,Bedroom,25.45,200.76,0,Thessaloniki,157,True,4.82,THS_FC,32.46,False
+2025-04-22,FRIHET-010,Friheten Sofa Bed,Living Room,39.93,610.36,0,Marseille,757,True,4.18,MRS_FC,32.51,False
+2024-10-28,FRIHET-010,Friheten Sofa Bed,Living Room,30.91,610.36,0,Athens,750,True,4.96,ATH_FC,32.51,False
+2024-12-25,FORNYAD-011,Förnyad Mug,Kitchen,38.6,2.58,1,Porto,97,False,3.97,OPO_FC,14.53,False
+2024-10-31,FRIHET-010,Friheten Sofa Bed,Living Room,42.56,610.36,0,Rome,600,True,4.82,ROM_FC,32.51,False
+2024-01-26,MALM-009,Malm Dresser,Bedroom,21.67,150.57,1,Valencia,780,True,3.82,VLC_FC,9.95,False
+2025-01-12,FORNYAD-011,Förnyad Mug,Kitchen,35.6,3.44,0,Rome,784,False,4.6,ROM_FC,35.89,False
+2024-05-18,FJADRAR-014,Fjädrar Cushion,Decoration,16.82,23.1,0,Marseille,315,False,4.91,MRS_FC,31.74,False
+2024-03-25,MALM-009,Malm Dresser,Bedroom,18.69,200.76,0,Milan,240,True,4.8,MIL_FC,32.46,True
+2025-04-01,FRIHET-010,Friheten Sofa Bed,Living Room,34.65,610.36,0,Valencia,766,True,3.87,VLC_FC,32.51,False
+2024-12-31,FJADRAR-014,Fjädrar Cushion,Decoration,10.25,23.1,0,Milan,413,False,4.28,MIL_FC,31.74,False
+2024-08-04,ALEX-012,Alex Drawer Unit,Office,34.74,93.31,0,Valencia,280,True,4.5,VLC_FC,33.03,True
+2024-03-12,FJADRAR-014,Fjädrar Cushion,Decoration,34.81,17.32,1,Bordeaux,726,False,4.17,BDX_FC,8.99,True
+2024-06-26,ALEX-012,Alex Drawer Unit,Office,24.82,93.31,0,Naples,721,True,4.25,NAP_FC,33.03,False
+2025-01-01,FORNYAD-011,Förnyad Mug,Kitchen,11.65,2.58,1,Barcelona,133,False,4.82,BCN_FC,14.53,False
+2025-03-22,LACK-004,Lack Table,Living Room,20.0,69.98,1,Zenata,400,True,3.96,MOR_FC_ZN,10.71,False
+2024-07-07,MALM-009,Malm Dresser,Bedroom,42.87,200.76,0,Naples,727,True,4.9,NAP_FC,32.46,False
+2024-08-02,FJADRAR-014,Fjädrar Cushion,Decoration,40.29,23.1,0,Naples,577,False,4.63,NAP_FC,31.74,False
+2024-12-18,FJADRAR-014,Fjädrar Cushion,Decoration,32.32,23.1,0,Marseille,605,False,4.74,MRS_FC,31.74,True
+2024-11-19,FRIHET-010,Friheten Sofa Bed,Living Room,30.11,610.36,0,Rome,324,True,4.73,ROM_FC,32.51,False
+2024-07-12,RASKOG-013,Råskog Cart,Storage,12.46,49.0,0,Rome,532,False,4.96,ROM_FC,34.36,False
+2024-03-19,MALM-009,Malm Dresser,Bedroom,42.38,200.76,0,Valencia,295,True,4.51,VLC_FC,32.46,False
+2024-06-07,ALEX-012,Alex Drawer Unit,Office,42.07,69.98,1,Porto,748,True,4.35,OPO_FC,10.71,False
+2024-09-16,FRIHET-010,Friheten Sofa Bed,Living Room,46.01,610.36,0,Valencia,468,True,4.02,VLC_FC,32.51,False
+2024-05-21,RASKOG-013,Råskog Cart,Storage,47.45,49.0,0,Naples,171,False,4.66,NAP_FC,34.36,False
+2024-06-04,ALEX-012,Alex Drawer Unit,Office,33.02,93.31,0,Valencia,466,True,3.82,VLC_FC,33.03,False
+2024-10-21,FJADRAR-014,Fjädrar Cushion,Decoration,26.36,23.1,0,Barcelona,612,False,4.49,BCN_FC,31.74,False
+2024-11-06,RASKOG-013,Råskog Cart,Storage,44.73,49.0,0,Marseille,655,False,4.09,MRS_FC,34.36,False
+2025-04-28,MALM-009,Malm Dresser,Bedroom,41.36,200.76,0,Porto,362,True,4.81,OPO_FC,32.46,False
+2024-04-10,FRIHET-010,Friheten Sofa Bed,Living Room,8.91,610.36,0,Barcelona,705,True,4.27,BCN_FC,32.51,False
+2024-01-23,ALEX-012,Alex Drawer Unit,Office,42.46,93.31,0,Valencia,498,True,4.0,VLC_FC,33.03,False
+2024-06-08,MALM-009,Malm Dresser,Bedroom,8.0,150.57,1,Bordeaux,52,True,4.04,BDX_FC,9.95,True
+2025-01-22,ALEX-012,Alex Drawer Unit,Office,36.55,93.31,0,Rome,381,True,4.42,ROM_FC,33.03,False
+2024-03-10,FORNYAD-011,Förnyad Mug,Kitchen,29.05,2.58,1,Valencia,195,False,4.59,VLC_FC,14.53,False
+2024-08-09,FJADRAR-014,Fjädrar Cushion,Decoration,34.08,23.1,0,Valencia,748,False,4.75,VLC_FC,31.74,False
+2024-07-23,RASKOG-013,Råskog Cart,Storage,40.18,36.75,1,Naples,600,False,4.51,NAP_FC,12.47,False
+2024-10-31,FRIHET-010,Friheten Sofa Bed,Living Room,13.32,457.77,1,Naples,784,True,4.93,NAP_FC,10.01,False
+2024-09-13,FORNYAD-011,Förnyad Mug,Kitchen,8.32,3.44,0,Bordeaux,326,False,4.57,BDX_FC,35.89,False
+2025-01-23,FORNYAD-011,Förnyad Mug,Kitchen,16.49,3.44,0,Athens,711,False,4.7,ATH_FC,35.89,False
+2024-04-29,FJADRAR-014,Fjädrar Cushion,Decoration,23.94,23.1,0,Barcelona,657,False,4.53,BCN_FC,31.74,False
+2024-11-24,FRIHET-010,Friheten Sofa Bed,Living Room,31.99,610.36,0,Porto,790,True,3.94,OPO_FC,32.51,False
+2024-02-29,ALEX-012,Alex Drawer Unit,Office,20.56,93.31,0,Rome,591,True,4.87,ROM_FC,33.03,True
+2025-01-14,RASKOG-013,Råskog Cart,Storage,48.85,49.0,0,Valencia,730,False,3.88,VLC_FC,34.36,False
+2024-07-20,RASKOG-013,Råskog Cart,Storage,43.36,49.0,0,Milan,800,False,3.86,MIL_FC,34.36,False
+2024-10-18,FRIHET-010,Friheten Sofa Bed,Living Room,7.83,610.36,0,Porto,566,True,4.96,OPO_FC,32.51,False
+2025-04-25,ALEX-012,Alex Drawer Unit,Office,15.1,93.31,0,Porto,292,True,4.15,OPO_FC,33.03,False
+2024-11-09,FJADRAR-014,Fjädrar Cushion,Decoration,31.76,23.1,0,Bordeaux,150,False,4.11,BDX_FC,31.74,False
+2024-05-19,ALEX-012,Alex Drawer Unit,Office,44.85,93.31,0,Barcelona,570,True,4.15,BCN_FC,33.03,False
+2025-03-02,ALEX-012,Alex Drawer Unit,Office,31.72,93.31,0,Valencia,28,True,4.63,VLC_FC,33.03,False
+2024-01-10,ALEX-012,Alex Drawer Unit,Office,25.25,93.31,0,Milan,303,True,4.72,MIL_FC,33.03,False
+2024-07-07,FJADRAR-014,Fjädrar Cushion,Decoration,21.46,17.32,1,Marseille,569,False,3.95,MRS_FC,8.99,False
+2025-01-06,FORNYAD-011,Förnyad Mug,Kitchen,31.42,3.44,0,Barcelona,427,False,4.91,BCN_FC,35.89,False
+2024-05-16,RASKOG-013,Råskog Cart,Storage,24.91,49.0,0,Thessaloniki,91,False,4.94,THS_FC,34.36,False
+2025-01-07,FRIHET-010,Friheten Sofa Bed,Living Room,22.8,610.36,0,Bordeaux,548,True,4.72,BDX_FC,32.51,False
+2024-03-09,ALEX-012,Alex Drawer Unit,Office,6.62,93.31,0,Porto,330,True,4.86,OPO_FC,33.03,False
+2024-07-16,RASKOG-013,Råskog Cart,Storage,8.69,49.0,0,Barcelona,343,False,4.92,BCN_FC,34.36,False
+2024-12-18,FORNYAD-011,Förnyad Mug,Kitchen,25.21,3.44,0,Valencia,194,False,4.06,VLC_FC,35.89,True
+2024-12-27,FJADRAR-014,Fjädrar Cushion,Decoration,40.55,17.32,1,Athens,744,False,4.18,ATH_FC,8.99,True
+2024-08-28,ALEX-012,Alex Drawer Unit,Office,48.74,93.31,0,Valencia,416,True,4.01,VLC_FC,33.03,False
+2024-08-11,FRIHET-010,Friheten Sofa Bed,Living Room,14.58,610.36,0,Naples,498,True,4.12,NAP_FC,32.51,False
+2024-03-19,FJADRAR-014,Fjädrar Cushion,Decoration,33.6,23.1,0,Rome,340,False,4.81,ROM_FC,31.74,True
+2025-05-06,MALM-009,Malm Dresser,Bedroom,7.52,150.57,1,Barcelona,141,True,4.05,BCN_FC,9.95,False
+2024-07-19,RASKOG-013,Råskog Cart,Storage,38.4,49.0,0,Marseille,121,False,4.8,MRS_FC,34.36,False
+2024-07-02,HEMNES-003,Hemnes Bed,Bedroom,3.0,1990.0,0,Zenata,120,True,3.8,MOR_FC_ZN,30.92,False
+2024-08-12,MALM-009,Malm Dresser,Bedroom,35.85,200.76,0,Bordeaux,277,True,4.03,BDX_FC,32.46,True
+2024-01-06,MALM-009,Malm Dresser,Bedroom,37.59,200.76,0,Rome,360,True,4.16,ROM_FC,32.46,False
+2024-09-29,ALEX-012,Alex Drawer Unit,Office,7.69,93.31,0,Naples,266,True,3.98,NAP_FC,33.03,False
+2024-10-30,RASKOG-013,Råskog Cart,Storage,47.62,49.0,0,Athens,530,False,4.68,ATH_FC,34.36,False
+2025-03-31,RASKOG-013,Råskog Cart,Storage,6.52,49.0,0,Barcelona,704,False,3.86,BCN_FC,34.36,True
+2024-12-22,ALEX-012,Alex Drawer Unit,Office,42.16,93.31,0,Porto,271,True,4.8,OPO_FC,33.03,False
+2025-01-10,FRIHET-010,Friheten Sofa Bed,Living Room,19.13,610.36,0,Porto,232,True,4.34,OPO_FC,32.51,False
+2024-02-09,FJADRAR-014,Fjädrar Cushion,Decoration,8.82,23.1,0,Thessaloniki,163,False,3.84,THS_FC,31.74,False
+2024-07-07,FJADRAR-014,Fjädrar Cushion,Decoration,48.14,23.1,0,Valencia,700,False,4.0,VLC_FC,31.74,False
+2025-02-11,FORNYAD-011,Förnyad Mug,Kitchen,21.67,3.44,0,Barcelona,391,False,3.92,BCN_FC,35.89,False
+2024-10-31,FRIHET-010,Friheten Sofa Bed,Living Room,43.33,457.77,1,Bordeaux,523,True,4.18,BDX_FC,10.01,False
+2025-03-07,ALEX-012,Alex Drawer Unit,Office,33.59,69.98,1,Rome,568,True,4.06,ROM_FC,10.71,False
+2024-12-18,FORNYAD-011,Förnyad Mug,Kitchen,45.32,3.44,0,Athens,607,False,4.6,ATH_FC,35.89,False
+2024-11-10,FRIHET-010,Friheten Sofa Bed,Living Room,24.88,610.36,0,Naples,234,True,4.06,NAP_FC,32.51,False
+2024-06-12,MALM-009,Malm Dresser,Bedroom,15.62,150.57,1,Rome,302,True,4.5,ROM_FC,9.95,False
+2025-05-31,MALM-009,Malm Dresser,Bedroom,33.69,200.76,0,Naples,690,True,4.61,NAP_FC,32.46,False
+2024-02-27,RASKOG-013,Råskog Cart,Storage,45.91,49.0,0,Barcelona,639,False,4.37,BCN_FC,34.36,True
+2024-10-12,FJADRAR-014,Fjädrar Cushion,Decoration,22.92,17.32,1,Thessaloniki,485,False,3.91,THS_FC,8.99,False
+2024-03-02,FJADRAR-014,Fjädrar Cushion,Decoration,45.99,23.1,0,Valencia,472,False,4.71,VLC_FC,31.74,False
+2024-02-03,MALM-009,Malm Dresser,Bedroom,18.65,200.76,0,Milan,363,True,3.88,MIL_FC,32.46,False
+2024-07-15,FJADRAR-014,Fjädrar Cushion,Decoration,24.88,23.1,0,Thessaloniki,773,False,4.0,THS_FC,31.74,False
+2024-12-13,FRIHET-010,Friheten Sofa Bed,Living Room,39.48,610.36,0,Thessaloniki,507,True,4.94,THS_FC,32.51,False
+2025-02-25,FJADRAR-014,Fjädrar Cushion,Decoration,11.3,23.1,0,Naples,127,False,4.19,NAP_FC,31.74,False
+2024-11-29,FJADRAR-014,Fjädrar Cushion,Decoration,16.0,17.32,1,Rome,646,False,4.53,ROM_FC,8.99,False
+2025-05-28,FJADRAR-014,Fjädrar Cushion,Decoration,10.14,23.1,0,Naples,119,False,4.79,NAP_FC,31.74,False
+2024-12-07,ALEX-012,Alex Drawer Unit,Office,12.16,93.31,0,Rome,59,True,4.83,ROM_FC,33.03,False
+2024-11-28,ALEX-012,Alex Drawer Unit,Office,29.5,93.31,0,Thessaloniki,534,True,4.19,THS_FC,33.03,True
+2024-04-09,FJADRAR-014,Fjädrar Cushion,Decoration,15.95,23.1,0,Bordeaux,736,False,3.91,BDX_FC,31.74,False
+2024-08-21,RASKOG-013,Råskog Cart,Storage,21.68,49.0,0,Marseille,450,False,4.79,MRS_FC,34.36,False
+2024-07-15,ALEX-012,Alex Drawer Unit,Office,46.68,93.31,0,Athens,647,True,4.8,ATH_FC,33.03,False
+2024-11-25,MALM-009,Malm Dresser,Bedroom,16.82,200.76,0,Barcelona,503,True,3.95,BCN_FC,32.46,False
+2025-05-28,FORNYAD-011,Förnyad Mug,Kitchen,5.35,2.58,1,Thessaloniki,409,False,4.44,THS_FC,14.53,False
+2024-12-18,MALM-009,Malm Dresser,Bedroom,48.84,150.57,1,Valencia,547,True,4.58,VLC_FC,9.95,False
+2024-10-12,MALM-009,Malm Dresser,Bedroom,8.33,150.57,1,Marseille,172,True,4.77,MRS_FC,9.95,True
+2025-01-14,RASKOG-013,Råskog Cart,Storage,24.62,49.0,0,Porto,730,False,4.78,OPO_FC,34.36,False
+2025-01-15,FRIHET-010,Friheten Sofa Bed,Living Room,21.79,610.36,0,Valencia,394,True,4.71,VLC_FC,32.51,False
+2025-01-11,FRIHET-010,Friheten Sofa Bed,Living Room,11.25,610.36,0,Marseille,84,True,4.0,MRS_FC,32.51,False
+2025-01-28,MALM-009,Malm Dresser,Bedroom,24.95,200.76,0,Rome,359,True,3.95,ROM_FC,32.46,True
+2025-03-19,FORNYAD-011,Förnyad Mug,Kitchen,34.14,3.44,0,Naples,737,False,4.16,NAP_FC,35.89,True
+2024-02-01,ALEX-012,Alex Drawer Unit,Office,17.39,93.31,0,Barcelona,730,True,4.28,BCN_FC,33.03,False
+2024-07-08,ALEX-012,Alex Drawer Unit,Office,10.34,93.31,0,Porto,125,True,4.28,OPO_FC,33.03,False
+2025-01-22,RASKOG-013,Råskog Cart,Storage,6.75,49.0,0,Barcelona,551,False,4.35,BCN_FC,34.36,False
+2024-02-09,KALLAX-002,Kallax Shelf,Storage,27.0,299.25,1,Zenata,90,True,4.75,MOR_FC_ZN,2.0,False
+2024-08-18,FJADRAR-014,Fjädrar Cushion,Decoration,10.57,23.1,0,Bordeaux,479,False,4.16,BDX_FC,31.74,False
+2024-11-28,FORNYAD-011,Förnyad Mug,Kitchen,44.83,2.58,1,Athens,336,False,4.52,ATH_FC,14.53,False
+2024-03-21,FRIHET-010,Friheten Sofa Bed,Living Room,34.09,610.36,0,Valencia,613,True,4.24,VLC_FC,32.51,False
+2025-01-08,FRIHET-010,Friheten Sofa Bed,Living Room,23.44,610.36,0,Thessaloniki,232,True,4.63,THS_FC,32.51,False
+2024-10-27,FRIHET-010,Friheten Sofa Bed,Living Room,19.63,610.36,0,Athens,477,True,4.87,ATH_FC,32.51,False
+2025-02-20,RASKOG-013,Råskog Cart,Storage,40.35,36.75,1,Milan,260,False,4.67,MIL_FC,12.47,False
+2024-07-11,FRIHET-010,Friheten Sofa Bed,Living Room,7.43,610.36,0,Rome,723,True,4.64,ROM_FC,32.51,False
+2025-02-14,ALEX-012,Alex Drawer Unit,Office,34.59,93.31,0,Bordeaux,380,True,4.88,BDX_FC,33.03,False
+2025-02-18,FJADRAR-014,Fjädrar Cushion,Decoration,11.88,23.1,0,Porto,686,False,4.12,OPO_FC,31.74,False
+2024-11-03,ALEX-012,Alex Drawer Unit,Office,18.19,93.31,0,Valencia,390,True,4.49,VLC_FC,33.03,True
+2024-08-19,FRIHET-010,Friheten Sofa Bed,Living Room,34.02,610.36,0,Porto,524,True,4.99,OPO_FC,32.51,False
+2024-08-09,FORNYAD-011,Förnyad Mug,Kitchen,10.22,3.44,0,Athens,21,False,4.59,ATH_FC,35.89,False
+2024-04-01,FRIHET-010,Friheten Sofa Bed,Living Room,23.8,610.36,0,Naples,771,True,4.72,NAP_FC,32.51,False
+2025-03-20,ALEX-012,Alex Drawer Unit,Office,10.05,69.98,1,Thessaloniki,714,True,4.46,THS_FC,10.71,False
+2024-08-19,ALEX-012,Alex Drawer Unit,Office,34.19,93.31,0,Porto,529,True,4.36,OPO_FC,33.03,False
+2024-11-19,ALEX-012,Alex Drawer Unit,Office,30.95,93.31,0,Valencia,457,True,4.86,VLC_FC,33.03,False
+2024-06-17,FORNYAD-011,Förnyad Mug,Kitchen,24.04,3.44,0,Bordeaux,767,False,4.63,BDX_FC,35.89,False
+2024-11-14,MALM-009,Malm Dresser,Bedroom,37.9,200.76,0,Thessaloniki,34,True,4.68,THS_FC,32.46,False
+2025-04-11,ALEX-012,Alex Drawer Unit,Office,38.55,93.31,0,Bordeaux,545,True,4.51,BDX_FC,33.03,False
+2024-08-17,FORNYAD-011,Förnyad Mug,Kitchen,23.1,3.44,0,Rome,580,False,4.02,ROM_FC,35.89,False
+2024-09-17,RASKOG-013,Råskog Cart,Storage,40.8,49.0,0,Porto,609,False,4.72,OPO_FC,34.36,False
+2024-09-29,ALEX-012,Alex Drawer Unit,Office,41.68,93.31,0,Milan,526,True,4.29,MIL_FC,33.03,False
+2024-12-24,RASKOG-013,Råskog Cart,Storage,32.4,49.0,0,Bordeaux,49,False,4.02,BDX_FC,34.36,False
+2024-02-09,FJADRAR-014,Fjädrar Cushion,Decoration,29.6,23.1,0,Thessaloniki,218,False,4.15,THS_FC,31.74,False
+2025-01-14,FORNYAD-011,Förnyad Mug,Kitchen,18.16,3.44,0,Valencia,409,False,4.41,VLC_FC,35.89,False
+2024-01-03,ALEX-012,Alex Drawer Unit,Office,9.89,93.31,0,Marseille,536,True,4.62,MRS_FC,33.03,False
+2024-08-11,FORNYAD-011,Förnyad Mug,Kitchen,43.4,3.44,0,Rome,387,False,4.49,ROM_FC,35.89,False
+2024-09-19,ALEX-012,Alex Drawer Unit,Office,29.55,69.98,1,Naples,696,True,4.15,NAP_FC,10.71,False
+2024-05-25,FJADRAR-014,Fjädrar Cushion,Decoration,9.2,23.1,0,Naples,337,False,4.07,NAP_FC,31.74,True
+2025-01-03,MALM-009,Malm Dresser,Bedroom,7.07,200.76,0,Barcelona,203,True,4.92,BCN_FC,32.46,False
+2024-02-17,MALM-009,Malm Dresser,Bedroom,22.34,200.76,0,Rome,603,True,4.55,ROM_FC,32.46,False
+2024-06-20,RASKOG-013,Råskog Cart,Storage,18.61,49.0,0,Naples,592,False,3.85,NAP_FC,34.36,False
+2024-04-17,FRIHET-010,Friheten Sofa Bed,Living Room,11.94,610.36,0,Athens,80,True,4.54,ATH_FC,32.51,True
+2024-06-01,FRIHET-010,Friheten Sofa Bed,Living Room,29.92,610.36,0,Marseille,619,True,4.16,MRS_FC,32.51,False
+2025-02-23,FJADRAR-014,Fjädrar Cushion,Decoration,6.42,23.1,0,Thessaloniki,263,False,4.25,THS_FC,31.74,False
+2024-06-09,ALEX-012,Alex Drawer Unit,Office,28.55,93.31,0,Bordeaux,665,True,4.69,BDX_FC,33.03,True
+2025-02-12,FRIHET-010,Friheten Sofa Bed,Living Room,48.1,610.36,0,Porto,408,True,4.31,OPO_FC,32.51,False
+2024-03-05,ALEX-012,Alex Drawer Unit,Office,35.46,93.31,0,Valencia,424,True,4.85,VLC_FC,33.03,False
+2025-01-04,FORNYAD-011,Förnyad Mug,Kitchen,11.08,3.44,0,Valencia,732,False,4.96,VLC_FC,35.89,False
+2024-07-14,RASKOG-013,Råskog Cart,Storage,20.2,49.0,0,Barcelona,595,False,4.07,BCN_FC,34.36,False
+2025-05-10,RASKOG-013,Råskog Cart,Storage,37.51,49.0,0,Porto,178,False,3.89,OPO_FC,34.36,False
+2024-05-07,FJADRAR-014,Fjädrar Cushion,Decoration,23.51,17.32,1,Rome,397,False,3.89,ROM_FC,8.99,False
+2025-05-28,FORNYAD-011,Förnyad Mug,Kitchen,8.12,3.44,0,Milan,422,False,4.01,MIL_FC,35.89,True
+2025-03-03,RASKOG-013,Råskog Cart,Storage,27.61,49.0,0,Thessaloniki,743,False,4.49,THS_FC,34.36,False
+2025-03-14,FORNYAD-011,Förnyad Mug,Kitchen,31.86,3.44,0,Naples,323,False,4.07,NAP_FC,35.89,True
+2024-01-31,ALEX-012,Alex Drawer Unit,Office,21.86,69.98,1,Rome,451,True,3.83,ROM_FC,10.71,False
+2024-04-19,FORNYAD-011,Förnyad Mug,Kitchen,36.81,3.44,0,Porto,673,False,4.28,OPO_FC,35.89,False
+2024-01-11,FORNYAD-011,Förnyad Mug,Kitchen,11.8,2.58,1,Naples,704,False,4.21,NAP_FC,14.53,False
+2024-05-29,FORNYAD-011,Förnyad Mug,Kitchen,21.32,3.44,0,Athens,631,False,4.43,ATH_FC,35.89,True
+2025-04-18,RASKOG-013,Råskog Cart,Storage,37.61,49.0,0,Milan,554,False,3.94,MIL_FC,34.36,True
+2024-08-18,HEMNES-003,Hemnes Bed,Bedroom,3.0,1990.0,0,Zenata,113,True,4.25,MOR_FC_ZN,30.92,False
+2025-04-27,FRIHET-010,Friheten Sofa Bed,Living Room,11.44,610.36,0,Porto,281,True,4.6,OPO_FC,32.51,False
+2024-10-18,ALEX-012,Alex Drawer Unit,Office,8.61,69.98,1,Barcelona,292,True,4.73,BCN_FC,10.71,False
+2024-06-30,RASKOG-013,Råskog Cart,Storage,30.91,49.0,0,Barcelona,752,False,4.04,BCN_FC,34.36,False
+2024-12-23,RASKOG-013,Råskog Cart,Storage,43.3,49.0,0,Athens,617,False,4.5,ATH_FC,34.36,False
+2024-09-19,ALEX-012,Alex Drawer Unit,Office,33.95,93.31,0,Rome,125,True,3.84,ROM_FC,33.03,False
+2024-01-27,FRIHET-010,Friheten Sofa Bed,Living Room,22.46,610.36,0,Athens,37,True,4.27,ATH_FC,32.51,True
+2024-12-08,FRIHET-010,Friheten Sofa Bed,Living Room,47.11,610.36,0,Porto,477,True,4.7,OPO_FC,32.51,False
+2024-05-31,RASKOG-013,Råskog Cart,Storage,33.95,49.0,0,Rome,490,False,4.33,ROM_FC,34.36,True
+2024-11-28,FRIHET-010,Friheten Sofa Bed,Living Room,26.98,610.36,0,Athens,114,True,4.56,ATH_FC,32.51,True
+2024-09-24,FORNYAD-011,Förnyad Mug,Kitchen,14.04,3.44,0,Marseille,394,False,4.44,MRS_FC,35.89,False
+2024-04-30,FRIHET-010,Friheten Sofa Bed,Living Room,36.66,610.36,0,Porto,689,True,4.43,OPO_FC,32.51,False
+2025-02-03,ALEX-012,Alex Drawer Unit,Office,35.52,93.31,0,Rome,308,True,4.73,ROM_FC,33.03,False
+2025-02-10,FJADRAR-014,Fjädrar Cushion,Decoration,22.26,23.1,0,Barcelona,741,False,4.52,BCN_FC,31.74,False
+2024-02-01,MALM-009,Malm Dresser,Bedroom,17.8,200.76,0,Milan,184,True,4.65,MIL_FC,32.46,False
+2024-11-25,MALM-009,Malm Dresser,Bedroom,34.13,150.57,1,Porto,278,True,4.53,OPO_FC,9.95,False
+2025-05-02,ALEX-012,Alex Drawer Unit,Office,7.56,69.98,1,Porto,112,True,4.54,OPO_FC,10.71,False
+2024-10-07,FORNYAD-011,Förnyad Mug,Kitchen,10.17,3.44,0,Bordeaux,459,False,4.81,BDX_FC,35.89,False
+2025-04-28,MALM-009,Malm Dresser,Bedroom,14.83,200.76,0,Porto,689,True,4.7,OPO_FC,32.46,False
+2025-03-27,LACK-004,Lack Table,Living Room,32.0,69.98,1,Zenata,350,True,3.95,MOR_FC_ZN,10.71,False
+2024-08-19,FORNYAD-011,Förnyad Mug,Kitchen,17.3,3.44,0,Barcelona,384,False,4.46,BCN_FC,35.89,True
+2024-03-11,MALM-009,Malm Dresser,Bedroom,5.15,200.76,0,Bordeaux,513,True,3.95,BDX_FC,32.46,False
+2024-08-02,FORNYAD-011,Förnyad Mug,Kitchen,22.43,3.44,0,Thessaloniki,73,False,4.75,THS_FC,35.89,True
+2024-08-15,ALEX-012,Alex Drawer Unit,Office,28.45,93.31,0,Naples,199,True,4.57,NAP_FC,33.03,False
+2024-01-11,FJADRAR-014,Fjädrar Cushion,Decoration,19.29,23.1,0,Naples,141,False,4.02,NAP_FC,31.74,True
+2024-12-29,FRIHET-010,Friheten Sofa Bed,Living Room,11.23,610.36,0,Rome,400,True,4.47,ROM_FC,32.51,False
+2024-05-12,FORNYAD-011,Förnyad Mug,Kitchen,44.07,2.58,1,Valencia,540,False,4.79,VLC_FC,14.53,False
+2024-03-02,MALM-009,Malm Dresser,Bedroom,35.1,150.57,1,Porto,606,True,4.98,OPO_FC,9.95,False
+2024-07-26,MALM-009,Malm Dresser,Bedroom,38.67,200.76,0,Athens,442,True,4.89,ATH_FC,32.46,False
+2024-10-12,MALM-009,Malm Dresser,Bedroom,22.4,200.76,0,Bordeaux,637,True,4.85,BDX_FC,32.46,False
+2024-03-31,FORNYAD-011,Förnyad Mug,Kitchen,48.05,3.44,0,Valencia,608,False,4.1,VLC_FC,35.89,False
+2024-05-20,RASKOG-013,Råskog Cart,Storage,22.12,49.0,0,Barcelona,791,False,4.27,BCN_FC,34.36,False
+2024-11-22,RASKOG-013,Råskog Cart,Storage,34.68,49.0,0,Milan,370,False,4.91,MIL_FC,34.36,True
+2024-06-26,MALM-009,Malm Dresser,Bedroom,39.66,200.76,0,Porto,91,True,3.9,OPO_FC,32.46,False
+2024-08-13,ALEX-012,Alex Drawer Unit,Office,10.24,93.31,0,Marseille,475,True,4.96,MRS_FC,33.03,False
+2024-03-13,ALEX-012,Alex Drawer Unit,Office,46.6,93.31,0,Naples,728,True,4.49,NAP_FC,33.03,False
+2024-06-18,RASKOG-013,Råskog Cart,Storage,29.6,36.75,1,Thessaloniki,460,False,4.86,THS_FC,12.47,False
+2024-02-26,MALM-009,Malm Dresser,Bedroom,7.03,200.76,0,Barcelona,779,True,4.5,BCN_FC,32.46,False
+2024-11-11,FRIHET-010,Friheten Sofa Bed,Living Room,19.12,610.36,0,Barcelona,440,True,4.4,BCN_FC,32.51,False
+2024-09-19,RASKOG-013,Råskog Cart,Storage,28.0,49.0,0,Porto,741,False,4.99,OPO_FC,34.36,False
+2024-04-16,RASKOG-013,Råskog Cart,Storage,28.47,49.0,0,Barcelona,82,False,5.0,BCN_FC,34.36,False
+2024-09-11,FJADRAR-014,Fjädrar Cushion,Decoration,45.3,23.1,0,Athens,243,False,4.36,ATH_FC,31.74,False
+2024-05-23,MALM-009,Malm Dresser,Bedroom,5.5,200.76,0,Thessaloniki,420,True,3.99,THS_FC,32.46,False
+2024-02-14,FJADRAR-014,Fjädrar Cushion,Decoration,9.1,23.1,0,Milan,107,False,4.43,MIL_FC,31.74,False
+2025-02-25,FRIHET-010,Friheten Sofa Bed,Living Room,25.12,610.36,0,Porto,649,True,5.0,OPO_FC,32.51,False
+2024-07-31,RASKOG-013,Råskog Cart,Storage,11.86,49.0,0,Marseille,271,False,4.4,MRS_FC,34.36,False
+2025-03-07,FORNYAD-011,Förnyad Mug,Kitchen,21.21,3.44,0,Barcelona,353,False,4.61,BCN_FC,35.89,False
+2024-04-10,ALEX-012,Alex Drawer Unit,Office,21.63,93.31,0,Valencia,140,True,4.25,VLC_FC,33.03,False
+2025-01-04,RASKOG-013,Råskog Cart,Storage,27.99,49.0,0,Marseille,729,False,4.6,MRS_FC,34.36,False
+2024-11-14,MALM-009,Malm Dresser,Bedroom,49.95,200.76,0,Milan,536,True,4.95,MIL_FC,32.46,False
+2024-01-24,RASKOG-013,Råskog Cart,Storage,40.11,49.0,0,Marseille,464,False,4.3,MRS_FC,34.36,False
+2024-11-22,RASKOG-013,Råskog Cart,Storage,26.01,49.0,0,Valencia,694,False,4.69,VLC_FC,34.36,False
+2024-05-04,ALEX-012,Alex Drawer Unit,Office,15.71,93.31,0,Marseille,235,True,4.49,MRS_FC,33.03,True
+2024-09-14,MALM-009,Malm Dresser,Bedroom,48.28,200.76,0,Naples,559,True,4.98,NAP_FC,32.46,False
+2024-03-22,MALM-009,Malm Dresser,Bedroom,23.87,200.76,0,Barcelona,36,True,4.09,BCN_FC,32.46,False
+2024-12-30,FJADRAR-014,Fjädrar Cushion,Decoration,38.35,17.32,1,Bordeaux,773,False,3.97,BDX_FC,8.99,False
+2024-08-14,MALM-009,Malm Dresser,Bedroom,30.04,200.76,0,Valencia,552,True,4.35,VLC_FC,32.46,False
+2024-08-23,FJADRAR-014,Fjädrar Cushion,Decoration,15.71,23.1,0,Milan,149,False,4.33,MIL_FC,31.74,True
+2025-04-12,RASKOG-013,Råskog Cart,Storage,34.89,49.0,0,Valencia,557,False,4.1,VLC_FC,34.36,False
+2024-10-18,FJADRAR-014,Fjädrar Cushion,Decoration,40.38,17.32,1,Porto,446,False,4.85,OPO_FC,8.99,False
+2025-02-24,FJADRAR-014,Fjädrar Cushion,Decoration,34.96,23.1,0,Barcelona,717,False,3.98,BCN_FC,31.74,False
+2024-09-09,FRIHET-010,Friheten Sofa Bed,Living Room,23.88,610.36,0,Milan,476,True,4.15,MIL_FC,32.51,False
+2024-07-14,MALM-009,Malm Dresser,Bedroom,20.1,150.57,1,Naples,445,True,4.0,NAP_FC,9.95,False
+2024-09-10,RASKOG-013,Råskog Cart,Storage,28.58,49.0,0,Marseille,647,False,4.14,MRS_FC,34.36,False
+2024-07-02,KALLAX-002,Kallax Shelf,Storage,14.0,399.0,0,Zenata,150,True,4.65,MOR_FC_ZN,26.5,False
+2024-07-28,RASKOG-013,Råskog Cart,Storage,22.07,49.0,0,Marseille,178,False,4.13,MRS_FC,34.36,False
+2024-12-29,FJADRAR-014,Fjädrar Cushion,Decoration,24.79,23.1,0,Thessaloniki,301,False,4.51,THS_FC,31.74,True
+2024-11-10,MALM-009,Malm Dresser,Bedroom,18.44,150.57,1,Valencia,693,True,3.8,VLC_FC,9.95,False
+2025-05-19,ALEX-012,Alex Drawer Unit,Office,20.53,93.31,0,Valencia,697,True,4.09,VLC_FC,33.03,False
+2024-09-19,FRIHET-010,Friheten Sofa Bed,Living Room,26.79,610.36,0,Porto,340,True,4.83,OPO_FC,32.51,False
+2024-10-29,ALEX-012,Alex Drawer Unit,Office,13.98,93.31,0,Milan,665,True,4.99,MIL_FC,33.03,True
+2024-04-03,BILLY-001,Billy Bookcase,Storage,13.0,549.0,0,Zenata,323,True,4.29,MOR_FC_ZN,37.27,True
+2024-07-07,ALEX-012,Alex Drawer Unit,Office,17.12,93.31,0,Rome,54,True,4.97,ROM_FC,33.03,False
+2024-06-20,FJADRAR-014,Fjädrar Cushion,Decoration,45.48,23.1,0,Thessaloniki,85,False,4.21,THS_FC,31.74,True
+2024-01-04,FJADRAR-014,Fjädrar Cushion,Decoration,15.88,23.1,0,Milan,571,False,4.03,MIL_FC,31.74,False
+2024-01-18,FJADRAR-014,Fjädrar Cushion,Decoration,33.72,23.1,0,Bordeaux,693,False,4.6,BDX_FC,31.74,False
+2024-09-19,FJADRAR-014,Fjädrar Cushion,Decoration,25.4,23.1,0,Thessaloniki,379,False,4.37,THS_FC,31.74,False
+2025-05-19,FORNYAD-011,Förnyad Mug,Kitchen,9.62,3.44,0,Athens,86,False,4.79,ATH_FC,35.89,False
+2025-03-06,ALEX-012,Alex Drawer Unit,Office,27.73,93.31,0,Thessaloniki,792,True,4.3,THS_FC,33.03,False
+2024-07-11,FORNYAD-011,Förnyad Mug,Kitchen,17.28,3.44,0,Naples,429,False,4.23,NAP_FC,35.89,False
+2025-02-13,MALM-009,Malm Dresser,Bedroom,9.16,200.76,0,Porto,294,True,4.25,OPO_FC,32.46,True
+2025-01-09,RASKOG-013,Råskog Cart,Storage,16.53,49.0,0,Rome,602,False,4.9,ROM_FC,34.36,False
+2024-04-13,RASKOG-013,Råskog Cart,Storage,19.52,49.0,0,Milan,328,False,4.13,MIL_FC,34.36,False
+2024-12-18,FJADRAR-014,Fjädrar Cushion,Decoration,30.61,23.1,0,Milan,331,False,4.14,MIL_FC,31.74,False
+2024-08-16,ALEX-012,Alex Drawer Unit,Office,49.68,93.31,0,Milan,28,True,4.53,MIL_FC,33.03,False
+2024-09-07,FORNYAD-011,Förnyad Mug,Kitchen,16.93,2.58,1,Porto,282,False,4.74,OPO_FC,14.53,True
+2025-03-06,FORNYAD-011,Förnyad Mug,Kitchen,41.76,3.44,0,Thessaloniki,407,False,4.53,THS_FC,35.89,False
+2024-10-03,FORNYAD-011,Förnyad Mug,Kitchen,32.17,3.44,0,Barcelona,694,False,4.34,BCN_FC,35.89,False
+2024-11-22,MALM-009,Malm Dresser,Bedroom,42.54,200.76,0,Porto,722,True,4.7,OPO_FC,32.46,False
+2024-05-15,FORNYAD-011,Förnyad Mug,Kitchen,7.48,3.44,0,Athens,394,False,4.44,ATH_FC,35.89,True
+2024-11-02,KALLAX-002,Kallax Shelf,Storage,9.0,399.0,0,Zenata,210,True,4.15,MOR_FC_ZN,26.5,False
+2025-03-17,FORNYAD-011,Förnyad Mug,Kitchen,15.79,2.58,1,Valencia,438,False,4.34,VLC_FC,14.53,False
+2024-12-05,ALEX-012,Alex Drawer Unit,Office,29.42,93.31,0,Bordeaux,576,True,4.22,BDX_FC,33.03,False
+2024-01-07,FORNYAD-011,Förnyad Mug,Kitchen,12.94,2.58,1,Marseille,518,False,4.02,MRS_FC,14.53,False
+2024-10-17,ALEX-012,Alex Drawer Unit,Office,23.71,93.31,0,Naples,570,True,4.76,NAP_FC,33.03,False
+2024-06-09,RASKOG-013,Råskog Cart,Storage,36.3,49.0,0,Milan,97,False,4.57,MIL_FC,34.36,False
+2024-11-17,ALEX-012,Alex Drawer Unit,Office,28.81,93.31,0,Naples,31,True,4.62,NAP_FC,33.03,False
+2024-07-10,FRIHET-010,Friheten Sofa Bed,Living Room,43.68,610.36,0,Marseille,137,True,4.98,MRS_FC,32.51,False
+2024-11-28,FORNYAD-011,Förnyad Mug,Kitchen,38.28,3.44,0,Porto,380,False,4.0,OPO_FC,35.89,False
+2024-03-11,RASKOG-013,Råskog Cart,Storage,8.61,49.0,0,Marseille,566,False,4.26,MRS_FC,34.36,False
+2024-09-01,RASKOG-013,Råskog Cart,Storage,7.1,49.0,0,Porto,576,False,4.48,OPO_FC,34.36,False
+2024-01-11,MALM-009,Malm Dresser,Bedroom,10.23,200.76,0,Athens,417,True,4.34,ATH_FC,32.46,False
+2024-08-05,FRIHET-010,Friheten Sofa Bed,Living Room,35.5,610.36,0,Bordeaux,30,True,4.61,BDX_FC,32.51,True
+2024-12-30,RIBBA-008,Ribba Frame,Decoration,44.0,69.98,1,Zenata,500,False,3.86,MOR_FC_ZN,10.71,False
+2024-03-01,RASKOG-013,Råskog Cart,Storage,39.54,49.0,0,Milan,745,False,4.05,MIL_FC,34.36,False
+2024-04-22,ALEX-012,Alex Drawer Unit,Office,7.75,69.98,1,Valencia,616,True,4.75,VLC_FC,10.71,False
+2024-03-01,FJADRAR-014,Fjädrar Cushion,Decoration,36.81,23.1,0,Naples,499,False,4.4,NAP_FC,31.74,False
+2024-09-22,FORNYAD-011,Förnyad Mug,Kitchen,23.84,3.44,0,Naples,63,False,4.4,NAP_FC,35.89,False
+2024-09-19,MALM-009,Malm Dresser,Bedroom,44.71,200.76,0,Marseille,394,True,3.85,MRS_FC,32.46,False
+2024-09-01,RASKOG-013,Råskog Cart,Storage,33.81,49.0,0,Marseille,352,False,4.01,MRS_FC,34.36,False
+2024-05-03,FORNYAD-011,Förnyad Mug,Kitchen,46.45,3.44,0,Naples,331,False,4.64,NAP_FC,35.89,False
+2024-06-11,FRIHET-010,Friheten Sofa Bed,Living Room,47.86,610.36,0,Bordeaux,402,True,4.96,BDX_FC,32.51,False
+2024-07-30,FORNYAD-011,Förnyad Mug,Kitchen,19.08,3.44,0,Rome,779,False,3.98,ROM_FC,35.89,False
+2025-04-22,RASKOG-013,Råskog Cart,Storage,39.03,49.0,0,Bordeaux,98,False,3.94,BDX_FC,34.36,True
+2024-12-21,FJADRAR-014,Fjädrar Cushion,Decoration,25.06,23.1,0,Naples,622,False,4.63,NAP_FC,31.74,False
+2024-07-15,FORNYAD-011,Förnyad Mug,Kitchen,39.23,2.58,1,Marseille,267,False,4.36,MRS_FC,14.53,False
+2025-05-24,RASKOG-013,Råskog Cart,Storage,22.66,49.0,0,Marseille,488,False,4.54,MRS_FC,34.36,False
+2024-06-02,MALM-009,Malm Dresser,Bedroom,49.71,200.76,0,Milan,609,True,4.18,MIL_FC,32.46,False
+2024-11-18,ALEX-012,Alex Drawer Unit,Office,5.87,93.31,0,Rome,210,True,4.97,ROM_FC,33.03,False
+2024-09-10,MALM-009,Malm Dresser,Bedroom,28.52,150.57,1,Marseille,424,True,4.28,MRS_FC,9.95,False
+2024-08-06,FRIHET-010,Friheten Sofa Bed,Living Room,11.95,610.36,0,Valencia,592,True,4.54,VLC_FC,32.51,False
+2024-03-03,FRIHET-010,Friheten Sofa Bed,Living Room,38.81,610.36,0,Bordeaux,530,True,4.42,BDX_FC,32.51,False
+2025-01-23,FJADRAR-014,Fjädrar Cushion,Decoration,39.02,23.1,0,Naples,94,False,4.23,NAP_FC,31.74,False
+2024-03-17,FJADRAR-014,Fjädrar Cushion,Decoration,24.07,23.1,0,Rome,188,False,4.2,ROM_FC,31.74,False
+2024-05-14,FORNYAD-011,Förnyad Mug,Kitchen,48.58,3.44,0,Milan,103,False,4.74,MIL_FC,35.89,False
+2025-01-25,POANG-005,Poäng Chair,Living Room,5.0,499.0,0,Zenata,135,True,4.04,MOR_FC_ZN,31.08,False
+2024-03-08,FORNYAD-011,Förnyad Mug,Kitchen,13.96,3.44,0,Barcelona,288,False,4.66,BCN_FC,35.89,False
+2024-06-28,RASKOG-013,Råskog Cart,Storage,32.64,49.0,0,Thessaloniki,529,False,4.39,THS_FC,34.36,False
+2024-08-02,ALEX-012,Alex Drawer Unit,Office,33.89,93.31,0,Bordeaux,721,True,4.29,BDX_FC,33.03,False
+2025-02-09,MALM-009,Malm Dresser,Bedroom,6.18,200.76,0,Milan,640,True,4.48,MIL_FC,32.46,False
+2024-12-05,FORNYAD-011,Förnyad Mug,Kitchen,47.91,3.44,0,Athens,113,False,4.8,ATH_FC,35.89,True
+2024-08-17,LACK-004,Lack Table,Living Room,17.0,69.98,1,Zenata,500,True,4.91,MOR_FC_ZN,10.71,False
+2024-04-26,RASKOG-013,Råskog Cart,Storage,21.32,49.0,0,Thessaloniki,517,False,4.03,THS_FC,34.36,False
+2024-07-07,FJADRAR-014,Fjädrar Cushion,Decoration,21.74,23.1,0,Porto,562,False,4.24,OPO_FC,31.74,False
+2024-12-02,FJADRAR-014,Fjädrar Cushion,Decoration,36.82,23.1,0,Rome,402,False,3.87,ROM_FC,31.74,False
+2025-05-28,RASKOG-013,Råskog Cart,Storage,10.58,49.0,0,Bordeaux,140,False,4.02,BDX_FC,34.36,False
+2024-10-21,FJADRAR-014,Fjädrar Cushion,Decoration,18.22,23.1,0,Bordeaux,762,False,4.77,BDX_FC,31.74,True
+2024-01-17,FRIHET-010,Friheten Sofa Bed,Living Room,6.49,610.36,0,Barcelona,223,True,4.13,BCN_FC,32.51,False
+2024-12-07,RASKOG-013,Råskog Cart,Storage,33.38,49.0,0,Milan,494,False,4.61,MIL_FC,34.36,False
+2024-09-04,FRIHET-010,Friheten Sofa Bed,Living Room,7.39,457.77,1,Naples,417,True,4.59,NAP_FC,10.01,False
+2024-07-12,FORNYAD-011,Förnyad Mug,Kitchen,9.92,3.44,0,Marseille,166,False,4.12,MRS_FC,35.89,False
+2024-03-11,FRIHET-010,Friheten Sofa Bed,Living Room,41.62,610.36,0,Barcelona,480,True,4.69,BCN_FC,32.51,False
+2025-04-11,ALEX-012,Alex Drawer Unit,Office,48.13,93.31,0,Athens,144,True,4.44,ATH_FC,33.03,False
+2024-10-09,FJADRAR-014,Fjädrar Cushion,Decoration,29.41,23.1,0,Milan,799,False,4.22,MIL_FC,31.74,False
+2024-06-19,FJADRAR-014,Fjädrar Cushion,Decoration,21.93,17.32,1,Bordeaux,339,False,4.67,BDX_FC,8.99,False
+2024-11-20,RASKOG-013,Råskog Cart,Storage,48.16,49.0,0,Milan,733,False,4.27,MIL_FC,34.36,False
+2025-05-23,FRIHET-010,Friheten Sofa Bed,Living Room,19.11,610.36,0,Thessaloniki,639,True,4.57,THS_FC,32.51,False
+2025-03-23,FORNYAD-011,Förnyad Mug,Kitchen,21.0,3.44,0,Barcelona,129,False,3.95,BCN_FC,35.89,False
+2024-08-06,RASKOG-013,Råskog Cart,Storage,31.04,49.0,0,Thessaloniki,517,False,4.51,THS_FC,34.36,False
+2024-06-26,RASKOG-013,Råskog Cart,Storage,46.84,49.0,0,Rome,436,False,4.41,ROM_FC,34.36,False
+2024-04-18,FORNYAD-011,Förnyad Mug,Kitchen,28.28,2.58,1,Rome,634,False,4.28,ROM_FC,14.53,True
+2025-02-02,FORNYAD-011,Förnyad Mug,Kitchen,11.59,3.44,0,Porto,114,False,3.87,OPO_FC,35.89,False
+2024-11-24,ALEX-012,Alex Drawer Unit,Office,43.71,93.31,0,Marseille,442,True,4.12,MRS_FC,33.03,False
+2024-07-01,MALM-009,Malm Dresser,Bedroom,39.34,200.76,0,Athens,170,True,4.8,ATH_FC,32.46,False
+2024-06-26,FRIHET-010,Friheten Sofa Bed,Living Room,29.23,610.36,0,Barcelona,109,True,4.97,BCN_FC,32.51,False
+2024-08-31,FORNYAD-011,Förnyad Mug,Kitchen,27.84,3.44,0,Porto,636,False,4.82,OPO_FC,35.89,False
+2024-11-11,MALM-009,Malm Dresser,Bedroom,41.03,200.76,0,Marseille,569,True,4.34,MRS_FC,32.46,False
+2024-05-11,RASKOG-013,Råskog Cart,Storage,33.16,49.0,0,Athens,50,False,4.93,ATH_FC,34.36,False
+2024-05-18,FRIHET-010,Friheten Sofa Bed,Living Room,43.49,610.36,0,Athens,484,True,4.56,ATH_FC,32.51,False
+2024-11-02,FRIHET-010,Friheten Sofa Bed,Living Room,32.14,610.36,0,Athens,201,True,4.96,ATH_FC,32.51,False
+2024-04-03,FJADRAR-014,Fjädrar Cushion,Decoration,25.09,23.1,0,Porto,576,False,4.25,OPO_FC,31.74,False
+2024-04-26,ALEX-012,Alex Drawer Unit,Office,12.37,93.31,0,Porto,766,True,4.88,OPO_FC,33.03,False
+2024-08-19,RASKOG-013,Råskog Cart,Storage,9.82,36.75,1,Marseille,216,False,4.54,MRS_FC,12.47,False
+2024-08-01,FORNYAD-011,Förnyad Mug,Kitchen,29.04,3.44,0,Marseille,211,False,4.51,MRS_FC,35.89,False
+2024-11-26,MALM-009,Malm Dresser,Bedroom,12.08,200.76,0,Barcelona,298,True,4.33,BCN_FC,32.46,False
+2024-08-10,POANG-005,Poäng Chair,Living Room,14.0,499.0,0,Zenata,98,True,4.28,MOR_FC_ZN,31.08,False
+2024-01-14,RASKOG-013,Råskog Cart,Storage,18.27,49.0,0,Rome,361,False,3.81,ROM_FC,34.36,False
+2024-01-31,ALEX-012,Alex Drawer Unit,Office,6.47,93.31,0,Porto,198,True,4.35,OPO_FC,33.03,False
+2024-03-01,FORNYAD-011,Förnyad Mug,Kitchen,43.41,3.44,0,Marseille,672,False,4.35,MRS_FC,35.89,False
+2024-04-15,FORNYAD-011,Förnyad Mug,Kitchen,47.98,3.44,0,Thessaloniki,401,False,4.78,THS_FC,35.89,False
+2024-04-22,ALEX-012,Alex Drawer Unit,Office,40.53,93.31,0,Rome,779,True,4.89,ROM_FC,33.03,False
+2024-06-24,FRIHET-010,Friheten Sofa Bed,Living Room,10.89,610.36,0,Athens,789,True,4.92,ATH_FC,32.51,False
+2024-01-17,FORNYAD-011,Förnyad Mug,Kitchen,41.22,3.44,0,Athens,786,False,4.41,ATH_FC,35.89,False
+2024-06-05,FJADRAR-014,Fjädrar Cushion,Decoration,10.16,17.32,1,Rome,292,False,4.79,ROM_FC,8.99,True
+2024-03-06,FORNYAD-011,Förnyad Mug,Kitchen,9.96,3.44,0,Valencia,741,False,4.15,VLC_FC,35.89,True
+2024-10-21,RASKOG-013,Råskog Cart,Storage,39.33,49.0,0,Milan,789,False,4.67,MIL_FC,34.36,False
+2024-11-19,FORNYAD-011,Förnyad Mug,Kitchen,28.87,3.44,0,Rome,684,False,3.81,ROM_FC,35.89,False
+2024-07-16,FRIHET-010,Friheten Sofa Bed,Living Room,38.03,457.77,1,Marseille,21,True,4.94,MRS_FC,10.01,False
+2024-06-18,ALEX-012,Alex Drawer Unit,Office,25.37,93.31,0,Thessaloniki,159,True,4.74,THS_FC,33.03,False
+2024-05-07,ALEX-012,Alex Drawer Unit,Office,19.93,93.31,0,Porto,579,True,4.43,OPO_FC,33.03,False
+2024-12-05,FJADRAR-014,Fjädrar Cushion,Decoration,16.38,23.1,0,Bordeaux,457,False,4.57,BDX_FC,31.74,True
+2024-06-22,ALEX-012,Alex Drawer Unit,Office,32.48,69.98,1,Barcelona,77,True,4.47,BCN_FC,10.71,False
+2025-05-03,ALEX-012,Alex Drawer Unit,Office,11.72,69.98,1,Naples,600,True,3.94,NAP_FC,10.71,False
+2025-05-02,MALM-009,Malm Dresser,Bedroom,28.07,150.57,1,Porto,427,True,4.07,OPO_FC,9.95,False
+2024-06-03,FJADRAR-014,Fjädrar Cushion,Decoration,43.92,23.1,0,Valencia,688,False,4.33,VLC_FC,31.74,True
+2024-06-02,FJADRAR-014,Fjädrar Cushion,Decoration,36.62,23.1,0,Barcelona,776,False,4.59,BCN_FC,31.74,False
+2024-05-03,ALEX-012,Alex Drawer Unit,Office,42.16,93.31,0,Milan,117,True,4.51,MIL_FC,33.03,False
+2024-07-17,FJADRAR-014,Fjädrar Cushion,Decoration,26.58,23.1,0,Bordeaux,565,False,4.64,BDX_FC,31.74,False
+2024-11-03,MALM-009,Malm Dresser,Bedroom,11.19,200.76,0,Thessaloniki,732,True,4.8,THS_FC,32.46,False
+2024-12-04,ALEX-012,Alex Drawer Unit,Office,15.97,93.31,0,Porto,633,True,4.41,OPO_FC,33.03,False
+2024-10-18,FORNYAD-011,Förnyad Mug,Kitchen,22.1,3.44,0,Valencia,290,False,4.77,VLC_FC,35.89,False
+2024-07-12,MALM-009,Malm Dresser,Bedroom,5.67,200.76,0,Barcelona,351,True,3.82,BCN_FC,32.46,False
+2025-01-21,FRIHET-010,Friheten Sofa Bed,Living Room,48.88,610.36,0,Valencia,433,True,3.95,VLC_FC,32.51,False
+2024-02-14,FJADRAR-014,Fjädrar Cushion,Decoration,37.99,23.1,0,Thessaloniki,761,False,3.96,THS_FC,31.74,False
+2024-12-31,ALEX-012,Alex Drawer Unit,Office,27.33,93.31,0,Thessaloniki,551,True,4.12,THS_FC,33.03,False
+2024-03-11,FRIHET-010,Friheten Sofa Bed,Living Room,49.78,610.36,0,Naples,448,True,4.02,NAP_FC,32.51,True
+2024-08-15,FRIHET-010,Friheten Sofa Bed,Living Room,15.35,610.36,0,Porto,173,True,4.02,OPO_FC,32.51,False
+2024-02-25,MALM-009,Malm Dresser,Bedroom,38.82,200.76,0,Valencia,226,True,4.15,VLC_FC,32.46,False
+2024-12-08,FRIHET-010,Friheten Sofa Bed,Living Room,24.33,610.36,0,Porto,305,True,4.7,OPO_FC,32.51,False
+2024-12-30,ALEX-012,Alex Drawer Unit,Office,29.37,93.31,0,Barcelona,29,True,4.94,BCN_FC,33.03,False
+2024-08-13,FRIHET-010,Friheten Sofa Bed,Living Room,44.48,610.36,0,Rome,715,True,4.17,ROM_FC,32.51,False
+2024-02-06,FJADRAR-014,Fjädrar Cushion,Decoration,48.27,23.1,0,Athens,763,False,3.84,ATH_FC,31.74,True
+2024-11-20,MALM-009,Malm Dresser,Bedroom,35.69,200.76,0,Thessaloniki,593,True,4.86,THS_FC,32.46,False
+2024-07-27,ALEX-012,Alex Drawer Unit,Office,12.55,93.31,0,Athens,137,True,4.73,ATH_FC,33.03,False
+2024-08-07,FORNYAD-011,Förnyad Mug,Kitchen,47.19,3.44,0,Porto,631,False,3.86,OPO_FC,35.89,False
+2024-06-07,ALEX-012,Alex Drawer Unit,Office,18.04,93.31,0,Thessaloniki,546,True,4.03,THS_FC,33.03,False
+2024-05-27,RASKOG-013,Råskog Cart,Storage,5.86,36.75,1,Barcelona,764,False,4.53,BCN_FC,12.47,False
+2024-06-18,ALEX-012,Alex Drawer Unit,Office,23.67,93.31,0,Thessaloniki,415,True,4.99,THS_FC,33.03,True
+2024-08-19,RASKOG-013,Råskog Cart,Storage,14.57,49.0,0,Valencia,592,False,4.24,VLC_FC,34.36,False
+2024-03-28,RASKOG-013,Råskog Cart,Storage,36.56,36.75,1,Barcelona,71,False,4.89,BCN_FC,12.47,True
+2024-11-06,ALEX-012,Alex Drawer Unit,Office,13.95,93.31,0,Barcelona,230,True,4.08,BCN_FC,33.03,True
+2024-07-25,FORNYAD-011,Förnyad Mug,Kitchen,16.02,3.44,0,Milan,312,False,4.49,MIL_FC,35.89,False
+2024-03-09,RASKOG-013,Råskog Cart,Storage,7.2,49.0,0,Bordeaux,57,False,3.97,BDX_FC,34.36,False
+2024-08-25,ALEX-012,Alex Drawer Unit,Office,9.22,93.31,0,Barcelona,594,True,4.04,BCN_FC,33.03,False
+2025-01-30,RASKOG-013,Råskog Cart,Storage,49.98,49.0,0,Naples,61,False,4.72,NAP_FC,34.36,False
+2024-08-25,RASKOG-013,Råskog Cart,Storage,20.31,49.0,0,Milan,337,False,4.73,MIL_FC,34.36,False
+2024-08-16,FJADRAR-014,Fjädrar Cushion,Decoration,20.68,23.1,0,Naples,507,False,4.98,NAP_FC,31.74,False
+2025-01-12,FJADRAR-014,Fjädrar Cushion,Decoration,20.88,23.1,0,Thessaloniki,191,False,3.84,THS_FC,31.74,False
+2025-05-27,ALEX-012,Alex Drawer Unit,Office,33.89,93.31,0,Marseille,258,True,4.07,MRS_FC,33.03,False
+2024-02-06,FORNYAD-011,Förnyad Mug,Kitchen,36.55,2.58,1,Athens,215,False,3.9,ATH_FC,14.53,False
+2024-10-04,FRIHET-010,Friheten Sofa Bed,Living Room,47.26,610.36,0,Naples,721,True,4.35,NAP_FC,32.51,False
+2025-04-21,ALEX-012,Alex Drawer Unit,Office,34.52,93.31,0,Rome,129,True,4.73,ROM_FC,33.03,False
+2024-12-27,MALM-009,Malm Dresser,Bedroom,40.36,200.76,0,Naples,440,True,4.12,NAP_FC,32.46,False
+2024-09-24,FRIHET-010,Friheten Sofa Bed,Living Room,39.44,610.36,0,Barcelona,530,True,4.45,BCN_FC,32.51,False
+2024-11-15,FJADRAR-014,Fjädrar Cushion,Decoration,27.89,23.1,0,Milan,162,False,4.08,MIL_FC,31.74,False
+2024-11-29,FJADRAR-014,Fjädrar Cushion,Decoration,23.24,23.1,0,Barcelona,672,False,3.81,BCN_FC,31.74,False
+2024-10-17,ALEX-012,Alex Drawer Unit,Office,14.14,93.31,0,Athens,696,True,4.03,ATH_FC,33.03,False
+2024-01-27,FRIHET-010,Friheten Sofa Bed,Living Room,17.2,610.36,0,Rome,131,True,4.54,ROM_FC,32.51,False
+2024-11-01,FRIHET-010,Friheten Sofa Bed,Living Room,37.94,610.36,0,Marseille,115,True,4.21,MRS_FC,32.51,False
+2025-04-01,FJADRAR-014,Fjädrar Cushion,Decoration,14.02,23.1,0,Rome,471,False,4.61,ROM_FC,31.74,True
+2024-07-23,MALM-009,Malm Dresser,Bedroom,38.09,200.76,0,Rome,233,True,4.37,ROM_FC,32.46,False
+2024-02-19,FORNYAD-011,Förnyad Mug,Kitchen,41.91,3.44,0,Thessaloniki,86,False,4.15,THS_FC,35.89,False
+2024-03-31,RASKOG-013,Råskog Cart,Storage,25.04,49.0,0,Rome,634,False,4.31,ROM_FC,34.36,False
+2025-04-30,ALEX-012,Alex Drawer Unit,Office,45.75,93.31,0,Marseille,49,True,4.11,MRS_FC,33.03,False
+2025-01-09,MALM-009,Malm Dresser,Bedroom,14.85,150.57,1,Rome,648,True,4.04,ROM_FC,9.95,False
+2024-01-13,FRIHET-010,Friheten Sofa Bed,Living Room,17.78,610.36,0,Bordeaux,553,True,4.21,BDX_FC,32.51,True
+2025-01-11,FJADRAR-014,Fjädrar Cushion,Decoration,23.26,23.1,0,Naples,271,False,4.76,NAP_FC,31.74,False
+2024-04-25,FORNYAD-011,Förnyad Mug,Kitchen,11.39,3.44,0,Naples,524,False,4.45,NAP_FC,35.89,True
+2024-06-25,FJADRAR-014,Fjädrar Cushion,Decoration,24.06,23.1,0,Bordeaux,570,False,4.54,BDX_FC,31.74,False
+2024-02-16,FJADRAR-014,Fjädrar Cushion,Decoration,22.23,23.1,0,Rome,345,False,4.69,ROM_FC,31.74,False
+2025-04-24,FJADRAR-014,Fjädrar Cushion,Decoration,33.08,23.1,0,Rome,359,False,4.77,ROM_FC,31.74,False
+2024-06-14,ALEX-012,Alex Drawer Unit,Office,21.04,93.31,0,Barcelona,524,True,3.93,BCN_FC,33.03,False
+2025-03-08,FRIHET-010,Friheten Sofa Bed,Living Room,33.52,457.77,1,Naples,556,True,3.85,NAP_FC,10.01,False
+2024-10-28,FORNYAD-011,Förnyad Mug,Kitchen,11.66,3.44,0,Valencia,662,False,3.83,VLC_FC,35.89,False
+2025-04-22,LACK-004,Lack Table,Living Room,18.0,69.98,1,Zenata,466,True,4.44,MOR_FC_ZN,10.71,False
+2024-06-03,ALEX-012,Alex Drawer Unit,Office,12.7,93.31,0,Porto,638,True,3.99,OPO_FC,33.03,False
+2024-03-15,ALEX-012,Alex Drawer Unit,Office,26.16,69.98,1,Athens,378,True,4.07,ATH_FC,10.71,False
+2024-12-09,MALM-009,Malm Dresser,Bedroom,26.12,200.76,0,Naples,72,True,4.1,NAP_FC,32.46,False
+2024-10-17,FORNYAD-011,Förnyad Mug,Kitchen,8.81,2.58,1,Naples,332,False,3.94,NAP_FC,14.53,True
+2024-07-08,FJADRAR-014,Fjädrar Cushion,Decoration,5.57,17.32,1,Milan,528,False,4.94,MIL_FC,8.99,False
+2024-02-06,FORNYAD-011,Förnyad Mug,Kitchen,9.55,2.58,1,Marseille,181,False,4.68,MRS_FC,14.53,False
+2024-06-14,FJADRAR-014,Fjädrar Cushion,Decoration,13.76,23.1,0,Bordeaux,735,False,4.08,BDX_FC,31.74,True
+2024-04-27,FRIHET-010,Friheten Sofa Bed,Living Room,9.38,610.36,0,Bordeaux,75,True,4.82,BDX_FC,32.51,False
+2025-01-15,MALM-009,Malm Dresser,Bedroom,41.74,200.76,0,Marseille,66,True,4.31,MRS_FC,32.46,False
+2024-09-24,FORNYAD-011,Förnyad Mug,Kitchen,39.69,3.44,0,Valencia,58,False,4.59,VLC_FC,35.89,False
+2024-07-17,FRIHET-010,Friheten Sofa Bed,Living Room,41.98,610.36,0,Porto,280,True,4.53,OPO_FC,32.51,False
+2025-05-29,FRIHET-010,Friheten Sofa Bed,Living Room,39.76,610.36,0,Valencia,143,True,4.76,VLC_FC,32.51,True
+2024-11-24,FORNYAD-011,Förnyad Mug,Kitchen,12.71,3.44,0,Naples,573,False,4.33,NAP_FC,35.89,False
+2024-10-08,FJADRAR-014,Fjädrar Cushion,Decoration,40.63,23.1,0,Barcelona,788,False,3.83,BCN_FC,31.74,False
+2024-10-20,RASKOG-013,Råskog Cart,Storage,45.34,49.0,0,Marseille,163,False,4.75,MRS_FC,34.36,True
+2024-10-15,FORNYAD-011,Förnyad Mug,Kitchen,29.5,3.44,0,Athens,394,False,4.51,ATH_FC,35.89,True
+2024-10-21,FORNYAD-011,Förnyad Mug,Kitchen,18.13,2.58,1,Marseille,592,False,4.89,MRS_FC,14.53,False
+2024-04-18,ALEX-012,Alex Drawer Unit,Office,39.61,69.98,1,Bordeaux,344,True,4.57,BDX_FC,10.71,False
+2025-04-16,FRIHET-010,Friheten Sofa Bed,Living Room,33.15,610.36,0,Barcelona,459,True,4.59,BCN_FC,32.51,True
+2024-05-23,ALEX-012,Alex Drawer Unit,Office,34.58,93.31,0,Thessaloniki,761,True,4.81,THS_FC,33.03,False
+2025-02-20,FJADRAR-014,Fjädrar Cushion,Decoration,11.44,23.1,0,Milan,264,False,4.93,MIL_FC,31.74,True
+2024-03-19,FORNYAD-011,Förnyad Mug,Kitchen,18.21,2.58,1,Thessaloniki,759,False,4.85,THS_FC,14.53,False
+2024-11-24,BILLY-001,Billy Bookcase,Storage,12.0,549.0,0,Zenata,350,True,4.8,MOR_FC_ZN,37.27,False
+2024-08-02,FJADRAR-014,Fjädrar Cushion,Decoration,38.37,17.32,1,Valencia,124,False,4.61,VLC_FC,8.99,True
+2024-08-22,FRIHET-010,Friheten Sofa Bed,Living Room,48.55,610.36,0,Thessaloniki,629,True,4.65,THS_FC,32.51,False
+2025-02-09,FORNYAD-011,Förnyad Mug,Kitchen,35.81,3.44,0,Bordeaux,254,False,4.79,BDX_FC,35.89,False
+2025-03-23,ALEX-012,Alex Drawer Unit,Office,8.07,93.31,0,Porto,468,True,3.97,OPO_FC,33.03,False
+2024-11-24,ALEX-012,Alex Drawer Unit,Office,46.82,93.31,0,Barcelona,458,True,4.04,BCN_FC,33.03,False
+2024-06-04,FJADRAR-014,Fjädrar Cushion,Decoration,16.77,23.1,0,Naples,703,False,3.94,NAP_FC,31.74,False
+2024-12-15,FORNYAD-011,Förnyad Mug,Kitchen,38.23,3.44,0,Thessaloniki,66,False,3.81,THS_FC,35.89,False
+2024-07-26,ALEX-012,Alex Drawer Unit,Office,5.85,93.31,0,Valencia,221,True,3.93,VLC_FC,33.03,False
+2025-05-27,FJADRAR-014,Fjädrar Cushion,Decoration,9.26,23.1,0,Bordeaux,144,False,3.81,BDX_FC,31.74,False
+2025-04-16,FRIHET-010,Friheten Sofa Bed,Living Room,32.07,610.36,0,Bordeaux,571,True,4.82,BDX_FC,32.51,False
